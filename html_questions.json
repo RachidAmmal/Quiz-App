@@ -1,0 +1,4378 @@
+[
+   {
+      "question":"A flashing red traffic light signifies that a driver should do what?",
+      "ANSWER-1":"stop",
+      "ANSWER-2":"speed up",
+      "ANSWER-3":"proceed with caution",
+      "ANSWER-4":"honk the horn",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"A knish is traditionally stuffed with what filling?",
+      "ANSWER-1":"raspberry jelly",
+      "ANSWER-2":"creamed corn",
+      "ANSWER-3":"lemon custard",
+      "ANSWER-4":"potato",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"A pita is a type of what?",
+      "ANSWER-1":"fresh fruit",
+      "ANSWER-2":"flat bread",
+      "ANSWER-3":"French tart",
+      "ANSWER-4":"friend bean dip",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"A portrait that comically exaggerates a person's physical traits is called a what?",
+      "ANSWER-1":"landscape",
+      "ANSWER-2":"caricature",
+      "ANSWER-3":"still life",
+      "ANSWER-4":"Impressionism",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"A second-year college student is usually called a what?",
+      "ANSWER-1":"sophomore",
+      "ANSWER-2":"senior",
+      "ANSWER-3":"freshman ",
+      "ANSWER-4":"junior ",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"A student who earns a J.D. can begin his or her career as a what?",
+      "ANSWER-1":"doctor",
+      "ANSWER-2":"bricklayer",
+      "ANSWER-3":"lawyer",
+      "ANSWER-4":"accountant",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"A triptych is a work of art that is painted on how many panels?",
+      "ANSWER-1":"two",
+      "ANSWER-2":"three",
+      "ANSWER-3":"five",
+      "ANSWER-4":"eight",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to a famous line from the existentialist play 'No Exit' what is hell?",
+      "ANSWER-1":"oneself",
+      "ANSWER-2":"other people",
+      "ANSWER-3":"little made large",
+      "ANSWER-4":"hued in green and blue",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to a popular slogan, what state should people not 'mess with'?",
+      "ANSWER-1":"New York",
+      "ANSWER-2":"Texas",
+      "ANSWER-3":"Montana",
+      "ANSWER-4":"Rhode Island",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to a Yale University study, what smell is the most recognizable to American adults?",
+      "ANSWER-1":"tuna",
+      "ANSWER-2":"laundry",
+      "ANSWER-3":"popcorn",
+      "ANSWER-4":"coffee",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"According to folklore, the 'jackalope' is an antlered version of what animal?",
+      "ANSWER-1":"chicken",
+      "ANSWER-2":"rabbit",
+      "ANSWER-3":"moose",
+      "ANSWER-4":"snake",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to Greek mythology, who was Apollo's twin sister?",
+      "ANSWER-1":"Aphrodite",
+      "ANSWER-2":"Artemis",
+      "ANSWER-3":"Venus",
+      "ANSWER-4":"Athena",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to legend, if you give someone the 'evil eye' what are you doing?",
+      "ANSWER-1":"cursing them",
+      "ANSWER-2":"blessing a child",
+      "ANSWER-3":"counting money",
+      "ANSWER-4":"passing time",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"According to legend, in what country are you most likely to meet a leprechaun?",
+      "ANSWER-1":"Ireland",
+      "ANSWER-2":"Poland",
+      "ANSWER-3":"Greenland",
+      "ANSWER-4":"Scotland",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"According to the American Kennel Club, what is the most popular breed of dog in the US as of 1999?",
+      "ANSWER-1":"Poodle",
+      "ANSWER-2":"Beagle",
+      "ANSWER-3":"German shepherd",
+      "ANSWER-4":"Labrador retriever",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"According to the Bible, Moses and Aaron had a sister named what?",
+      "ANSWER-1":"Jochebed",
+      "ANSWER-2":"Ruth",
+      "ANSWER-3":"Leah",
+      "ANSWER-4":"Miriam",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"According to the children's nursery rhyme, what type of ocean did Columbus sail in 1492?",
+      "ANSWER-1":"calm",
+      "ANSWER-2":"blue",
+      "ANSWER-3":"windy",
+      "ANSWER-4":"really big",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to the Mother Goose nursery rhyme, which child is full of woe?",
+      "ANSWER-1":"Monday's child",
+      "ANSWER-2":"Wednesday's child",
+      "ANSWER-3":"Thursday's child",
+      "ANSWER-4":"Saturday's child",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"According to the popular saying, what should you do 'when in Rome'?",
+      "ANSWER-1":"watch your wallet",
+      "ANSWER-2":"see the Coliseum",
+      "ANSWER-3":"as the Romans do",
+      "ANSWER-4":"don't drink the water",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"According to the proverb, necessity is the mother of what?",
+      "ANSWER-1":"Invention",
+      "ANSWER-2":"Luck",
+      "ANSWER-3":"Problems",
+      "ANSWER-4":"Procrastination",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"According to the title of a popular children's TV show, what color is Bear's big house?",
+      "ANSWER-1":"red",
+      "ANSWER-2":"green",
+      "ANSWER-3":"purple",
+      "ANSWER-4":"blue",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"According to the USDA, which food group should you eat the most servings of per day?",
+      "ANSWER-1":"vegetables",
+      "ANSWER-2":"dairy",
+      "ANSWER-3":"breads",
+      "ANSWER-4":"meats",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Ada Lovelace is credited with being the first person to have made what?",
+      "ANSWER-1":"a computer program",
+      "ANSWER-2":"a souffle",
+      "ANSWER-3":"a brassiere",
+      "ANSWER-4":"a mystery novel",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"After Prince Charles, who is next in line to be the king of England?",
+      "ANSWER-1":"Prince William",
+      "ANSWER-2":"Prince Andrew",
+      "ANSWER-3":"Prince Edward",
+      "ANSWER-4":"Fresh Prince",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"An airplane's black box is usually what color?",
+      "ANSWER-1":"black",
+      "ANSWER-2":"white",
+      "ANSWER-3":"orange",
+      "ANSWER-4":"purple",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"As of 1999, which state has the most Girl Scouts?",
+      "ANSWER-1":"California",
+      "ANSWER-2":"Illinois",
+      "ANSWER-3":"New York",
+      "ANSWER-4":"Pennsylvania",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Astronaut John Glenn served as a pilot in what branch of the military?",
+      "ANSWER-1":"Army",
+      "ANSWER-2":"Air Force",
+      "ANSWER-3":"Marines",
+      "ANSWER-4":"Navy",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"At the equator, how fast is the earth's surface turning?",
+      "ANSWER-1":"about 100 miles per hour",
+      "ANSWER-2":"about 500 miles per hour",
+      "ANSWER-3":"about 1000 miles per hour",
+      "ANSWER-4":"about 2000 miles per hour",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"At what age can someone first attend an R-rated movie without an accompanying adult?",
+      "ANSWER-1":"15",
+      "ANSWER-2":"17",
+      "ANSWER-3":"18",
+      "ANSWER-4":"21",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Backgammon is a how many player game?",
+      "ANSWER-1":"Two",
+      "ANSWER-2":"Three",
+      "ANSWER-3":"Four",
+      "ANSWER-4":"Six",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Before he went into coaching, Phil Jackson played for which of the following NBA teams?",
+      "ANSWER-1":"Boston Celtics",
+      "ANSWER-2":"Los Angeles Lakers",
+      "ANSWER-3":"New York Knicks",
+      "ANSWER-4":"Philadelphia 76ers",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"By what name is Bob Keeshan better known?",
+      "ANSWER-1":"Bozo the Clown",
+      "ANSWER-2":"Pee Wee Herman",
+      "ANSWER-3":"Captain Kangaroo",
+      "ANSWER-4":"Buffalo Bob",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"By what collective name do Christians refer to God the Father, God the Son and the Holy Ghost?",
+      "ANSWER-1":"the Trio",
+      "ANSWER-2":"the Troika",
+      "ANSWER-3":"the Triumvirate",
+      "ANSWER-4":"the Trinity",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"By what nickname is the Federal National Mortgage Association known?",
+      "ANSWER-1":"Morty",
+      "ANSWER-2":"FEMA",
+      "ANSWER-3":"Freddie Mac",
+      "ANSWER-4":"Fannie Mae",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Cheddar cheese got its name from a village in what country?",
+      "ANSWER-1":"England",
+      "ANSWER-2":"France",
+      "ANSWER-3":"Switzerland",
+      "ANSWER-4":"Denmark",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Cheese is a necessary ingredient in which of these dishes?",
+      "ANSWER-1":"sushi",
+      "ANSWER-2":"french fries",
+      "ANSWER-3":"veal parmigiano",
+      "ANSWER-4":"chicken pot pie",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"During what war did Francis Scott Key write the words to 'The Star-Spangled Banner'?",
+      "ANSWER-1":"American Revolution",
+      "ANSWER-2":"War of 1812",
+      "ANSWER-3":"Civil War",
+      "ANSWER-4":"World War I",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"During which war did US troops fight the Battle of New Orleans?",
+      "ANSWER-1":"American Revolution",
+      "ANSWER-2":"Civil War",
+      "ANSWER-3":"Mexican War",
+      "ANSWER-4":"War of 1812",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Each year in pro baseball, the player voted as the best fielder at his position wins what?",
+      "ANSWER-1":"a brand new car",
+      "ANSWER-2":"the Gold Glove",
+      "ANSWER-3":"the Silver Bat",
+      "ANSWER-4":"the Brass Baseball",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Elephant tusks are made of what material?",
+      "ANSWER-1":"coral",
+      "ANSWER-2":"ivory",
+      "ANSWER-3":"bone",
+      "ANSWER-4":"calcium",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Excluding wisdom teeth, how many adult teeth do humans have?",
+      "ANSWER-1":"28",
+      "ANSWER-2":"32",
+      "ANSWER-3":"35",
+      "ANSWER-4":"40",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"For a man and woman on a date, 'dutch treat' means what?",
+      "ANSWER-1":"the man pays",
+      "ANSWER-2":"the woman pays",
+      "ANSWER-3":"the Dutch pay",
+      "ANSWER-4":"each pays their own way",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"For what purpose would you use an awl?",
+      "ANSWER-1":"to shoot ducks",
+      "ANSWER-2":"to polish floors",
+      "ANSWER-3":"to make holes",
+      "ANSWER-4":"to weigh fruit",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"From 1971 to 1997, the Democratic Republic of Congo was known as what?",
+      "ANSWER-1":"Zaire",
+      "ANSWER-2":"Angola",
+      "ANSWER-3":"Rhodesia",
+      "ANSWER-4":"Belgian Congo",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"From what language does the term 'R.S.V.P.' originate?",
+      "ANSWER-1":"Russian",
+      "ANSWER-2":"Italian",
+      "ANSWER-3":"Portuguese",
+      "ANSWER-4":"French",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"From whom does the Lutheran Church get its name?",
+      "ANSWER-1":"Martin Luther King Jr",
+      "ANSWER-2":"Martin Luther",
+      "ANSWER-3":"Luther Vandross",
+      "ANSWER-4":"Lex Luthor",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Gerry Adams is the president of what organization?",
+      "ANSWER-1":"Greenpeace",
+      "ANSWER-2":"NASCAR",
+      "ANSWER-3":"Sinn Fein",
+      "ANSWER-4":"PLO",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Girls of what religious community traditionally wear bonnets?",
+      "ANSWER-1":"Amish",
+      "ANSWER-2":"Sikh",
+      "ANSWER-3":"Roman Catholic",
+      "ANSWER-4":"Christian",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"How are actors Charlie Sheen and Emilio Estevez related?",
+      "ANSWER-1":"they're cousins",
+      "ANSWER-2":"they're brothers",
+      "ANSWER-3":"they're father and son",
+      "ANSWER-4":"they're uncle and nephew",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How do you express 3/4 as a decimal?",
+      "ANSWER-1":".25",
+      "ANSWER-2":".50",
+      "ANSWER-3":".75",
+      "ANSWER-4":".90",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How is 4:00 pm expressed in military time?",
+      "ANSWER-1":"1600",
+      "ANSWER-2":"004",
+      "ANSWER-3":"0400 ",
+      "ANSWER-4":"4:00",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"How is the Arabic numeral for '2' written?",
+      "ANSWER-1":"2",
+      "ANSWER-2":"II",
+      "ANSWER-3":"I",
+      "ANSWER-4":"ii",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"How is the word 'ambulance' normally written on the front of American ambulances?",
+      "ANSWER-1":"in French",
+      "ANSWER-2":"in reverse",
+      "ANSWER-3":"in braille",
+      "ANSWER-4":"in gibberish",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How long is a single term in the US Senate?",
+      "ANSWER-1":"two years",
+      "ANSWER-2":"four years",
+      "ANSWER-3":"six years",
+      "ANSWER-4":"eight years",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How long is the time on an NBA shot clock?",
+      "ANSWER-1":"18 seconds",
+      "ANSWER-2":"24 seconds",
+      "ANSWER-3":"30 seconds",
+      "ANSWER-4":"35 seconds",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many $100 bills does it take to equal one million dollars?",
+      "ANSWER-1":"one thousand",
+      "ANSWER-2":"five thousand",
+      "ANSWER-3":"ten thousand",
+      "ANSWER-4":"one hundred thousand",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many axles does a standard automobile have?",
+      "ANSWER-1":"one",
+      "ANSWER-2":"two",
+      "ANSWER-3":"four",
+      "ANSWER-4":"eight",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many digits are in a standard Visa credit card number?",
+      "ANSWER-1":"12",
+      "ANSWER-2":"15",
+      "ANSWER-3":"16",
+      "ANSWER-4":"20",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many eyes does a Giraffe have?",
+      "ANSWER-1":"one",
+      "ANSWER-2":"two",
+      "ANSWER-3":"three",
+      "ANSWER-4":"four",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many innings are there in a regular Major League Baseball game?",
+      "ANSWER-1":"seven",
+      "ANSWER-2":"eight",
+      "ANSWER-3":"nine",
+      "ANSWER-4":"ten",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many keys are on a standard piano?",
+      "ANSWER-1":"20",
+      "ANSWER-2":"54",
+      "ANSWER-3":"88",
+      "ANSWER-4":"100",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many men has actress Elizabeth Taylor been divorced from?",
+      "ANSWER-1":"five",
+      "ANSWER-2":"six",
+      "ANSWER-3":"seven",
+      "ANSWER-4":"eight",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many ounces are in a pound?",
+      "ANSWER-1":"4",
+      "ANSWER-2":"12",
+      "ANSWER-3":"16",
+      "ANSWER-4":"32",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many periods are there in an ice hockey game?",
+      "ANSWER-1":"One",
+      "ANSWER-2":"Two",
+      "ANSWER-3":"Three",
+      "ANSWER-4":"Four",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many quarts are there in a gallon?",
+      "ANSWER-1":"one",
+      "ANSWER-2":"two",
+      "ANSWER-3":"three",
+      "ANSWER-4":"four",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"How many ribs are there in the human body?",
+      "ANSWER-1":"18",
+      "ANSWER-2":"24",
+      "ANSWER-3":"30",
+      "ANSWER-4":"42",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many ships did Columbus set sail with on his initial voyage to the New World?",
+      "ANSWER-1":"Two",
+      "ANSWER-2":"Three",
+      "ANSWER-3":"Five",
+      "ANSWER-4":"Ten",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many spikes are on the Statue of Liberty's crown?",
+      "ANSWER-1":"five",
+      "ANSWER-2":"seven",
+      "ANSWER-3":"nine",
+      "ANSWER-4":"thirteen",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"How many stars are on the American flag?",
+      "ANSWER-1":"13",
+      "ANSWER-2":"48",
+      "ANSWER-3":"50",
+      "ANSWER-4":"51",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"How many states were in the Confederate States of America?",
+      "ANSWER-1":"11",
+      "ANSWER-2":"13",
+      "ANSWER-3":"16",
+      "ANSWER-4":"22",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"How much does Peanuts character Lucy charge for her psychiatric advice?",
+      "ANSWER-1":"5 cents",
+      "ANSWER-2":"10 cents",
+      "ANSWER-3":"75 cents",
+      "ANSWER-4":"$125",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"How long is Hanukkah?",
+      "ANSWER-1":"one day",
+      "ANSWER-2":"five days",
+      "ANSWER-3":"eight days",
+      "ANSWER-4":"two weeks",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Huffy, Schwinn and Raleigh are all brands of what?",
+      "ANSWER-1":"sportswear",
+      "ANSWER-2":"dishwashers",
+      "ANSWER-3":"cigarettes",
+      "ANSWER-4":"bicycles",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"If a business files under Chapter 11 what is it doing?",
+      "ANSWER-1":"declaring bankruptcy",
+      "ANSWER-2":"selling stock",
+      "ANSWER-3":"buying a smaller",
+      "ANSWER-4":"company suing the government",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"If a piece of music is in 'common time' how many quarter notes are there per measure?",
+      "ANSWER-1":"one",
+      "ANSWER-2":"four",
+      "ANSWER-3":"five",
+      "ANSWER-4":"ten",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"If a ring has the number 925 stamped into it, it is most likely made of what material?",
+      "ANSWER-1":"platinum",
+      "ANSWER-2":"gold",
+      "ANSWER-3":"steel",
+      "ANSWER-4":"silver",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"If Christmas Day is on a Saturday, then the following New Year's Day falls on what day of the week?",
+      "ANSWER-1":"Sunday",
+      "ANSWER-2":"Monday",
+      "ANSWER-3":"Friday",
+      "ANSWER-4":"Saturday",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"If someone has cataracts, what part of their body might need an operation?",
+      "ANSWER-1":"ear",
+      "ANSWER-2":"hand",
+      "ANSWER-3":"eye",
+      "ANSWER-4":"knee",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"If you are 'riding fakie' inside a 'half pipe' what are you probably doing?",
+      "ANSWER-1":"skiing",
+      "ANSWER-2":"biking",
+      "ANSWER-3":"snowboarding",
+      "ANSWER-4":"surfing",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"If you are truly afraid of the dark, what do you suffer from?",
+      "ANSWER-1":"hypnophobia",
+      "ANSWER-2":"cryptophobia",
+      "ANSWER-3":"hadephobia",
+      "ANSWER-4":"nyctophobia",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"If you are watching a Shavian play, who is the author?",
+      "ANSWER-1":"Shakespeare",
+      "ANSWER-2":"Aeschylus",
+      "ANSWER-3":"George Bernard Shaw",
+      "ANSWER-4":"Anton Chekhov",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"If you ask for 'gai' at a Thai restaurant, what will you get?",
+      "ANSWER-1":"shrimp",
+      "ANSWER-2":"chicken",
+      "ANSWER-3":"beef",
+      "ANSWER-4":"pork",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"If you dial '411' on a telephone, who are you calling?",
+      "ANSWER-1":"the police",
+      "ANSWER-2":"the White House",
+      "ANSWER-3":"directory assistance",
+      "ANSWER-4":"Moviefone",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"If you have a 'sawbuck' how much money do you have?",
+      "ANSWER-1":"$1",
+      "ANSWER-2":"$5",
+      "ANSWER-3":"$10",
+      "ANSWER-4":"$20",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"If you work as a 'dolly grip' what business are you in?",
+      "ANSWER-1":"sheep farming",
+      "ANSWER-2":"film production",
+      "ANSWER-3":"construction",
+      "ANSWER-4":"moving",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In 1909, Frederick Cook claimed to be the first explorer to reach what location?",
+      "ANSWER-1":"Mount Everest",
+      "ANSWER-2":"Bermuda Triangle",
+      "ANSWER-3":"Atlantis",
+      "ANSWER-4":"North Pole",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In 1926, the Harlem Globetrotters basketball team was formed in what city?",
+      "ANSWER-1":"Boston",
+      "ANSWER-2":"Philadelphia",
+      "ANSWER-3":"Chicago",
+      "ANSWER-4":"New York City",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In 1960, Nazi official Adolph Eichmann was finally captured in what country?",
+      "ANSWER-1":"Brazil",
+      "ANSWER-2":"East Germany",
+      "ANSWER-3":"Argentina",
+      "ANSWER-4":"Paraguay",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In 1978, who became the youngest jockey ever to win horse racing's triple crown?",
+      "ANSWER-1":"Jerry Bailey",
+      "ANSWER-2":"Steve Cauthen",
+      "ANSWER-3":"Willie Shoemaker",
+      "ANSWER-4":"Pasquale Devito",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In 1986, Libyan leader Muammar Qaddafi drew a so-called 'Line of Death' over what body of water?",
+      "ANSWER-1":"Gulf of Sidra",
+      "ANSWER-2":"Gulf of Oman",
+      "ANSWER-3":"Red Sea",
+      "ANSWER-4":"Persian Gulf",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In a game with no wild cards, what is the highest possible poker hand?",
+      "ANSWER-1":"straight flush",
+      "ANSWER-2":"royal flush",
+      "ANSWER-3":"full house",
+      "ANSWER-4":"four of a kind",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In America, what is the main ingredient in pepperoni?",
+      "ANSWER-1":"fish",
+      "ANSWER-2":"pepper",
+      "ANSWER-3":"wheat",
+      "ANSWER-4":"meat",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In American football, how many points is a touchdown worth?",
+      "ANSWER-1":"two",
+      "ANSWER-2":"three",
+      "ANSWER-3":"six",
+      "ANSWER-4":"seven",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In an adult human, how long is the large intestine?",
+      "ANSWER-1":"one foot",
+      "ANSWER-2":"five feet",
+      "ANSWER-3":"twelve feet",
+      "ANSWER-4":"twenty feet",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In baseball, how many balls make a walk?",
+      "ANSWER-1":"one",
+      "ANSWER-2":"two",
+      "ANSWER-3":"three",
+      "ANSWER-4":"four",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In bowling, how many pins must you knock down to get a strike?",
+      "ANSWER-1":"zero",
+      "ANSWER-2":"8",
+      "ANSWER-3":"10",
+      "ANSWER-4":"12",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In British currency, how many pence make a pound?",
+      "ANSWER-1":"10",
+      "ANSWER-2":"100",
+      "ANSWER-3":"500",
+      "ANSWER-4":"1000",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In computer terminology, what does the acronym 'FTP' stand for?",
+      "ANSWER-1":"file transfer protocol",
+      "ANSWER-2":"full time portal",
+      "ANSWER-3":"full text processor",
+      "ANSWER-4":"free to print",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In computer terminology, what does the acronym 'ISP' stand for?",
+      "ANSWER-1":"Individual Site Privacy",
+      "ANSWER-2":"Investment Stability Plan",
+      "ANSWER-3":"Internal Security Position",
+      "ANSWER-4":"Internet Service Provider",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In cooking, the term 'au gratin' is sometimes used to describe a dish with what topping?",
+      "ANSWER-1":"cheese",
+      "ANSWER-2":"fruit",
+      "ANSWER-3":"gravy",
+      "ANSWER-4":"whipped cream",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In golf, what is one stroke over par called?",
+      "ANSWER-1":"eagle",
+      "ANSWER-2":"bogey",
+      "ANSWER-3":"dormy",
+      "ANSWER-4":"birdie",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In Greek mythology, what is the name of Zeus' father?",
+      "ANSWER-1":"Apollo",
+      "ANSWER-2":"Cronus",
+      "ANSWER-3":"Prometheus",
+      "ANSWER-4":"Hercules",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In horse racing, what is the term for a wager on the 1st, 2nd and 3rd place finishers in a specific race?",
+      "ANSWER-1":"triple action",
+      "ANSWER-2":"trifecta",
+      "ANSWER-3":"exacta",
+      "ANSWER-4":"triple crown",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In ice hockey, which of the following is not a penalty?",
+      "ANSWER-1":"hooking",
+      "ANSWER-2":"charging",
+      "ANSWER-3":"carving",
+      "ANSWER-4":"butt-ending",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In Mister Rogers' theme song, what does he ask you to be?",
+      "ANSWER-1":"his cook",
+      "ANSWER-2":"his student",
+      "ANSWER-3":"his neighbor",
+      "ANSWER-4":"all you can be",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In mobster lingo, if you 'sing like a canary' what are you doing?",
+      "ANSWER-1":"impersonating Sinatra",
+      "ANSWER-2":"talking to the cops",
+      "ANSWER-3":"killing an enemy",
+      "ANSWER-4":"betting on horses",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In soccer, which player is allowed to use his or her hands in the field of play?",
+      "ANSWER-1":"midfielder",
+      "ANSWER-2":"center",
+      "ANSWER-3":"sweeper",
+      "ANSWER-4":"goalkeeper",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In the 1960s 'Batman' TV series, who was not a guest villain?",
+      "ANSWER-1":"The Minstrel",
+      "ANSWER-2":"The Archer",
+      "ANSWER-3":"The Bookworm",
+      "ANSWER-4":"The Squeegee Guy",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In the 1976 remake of the classic film 'King Kong' what New York landmark does the giant ape climb?",
+      "ANSWER-1":"Statue of Liberty",
+      "ANSWER-2":"Empire State Building",
+      "ANSWER-3":"World Trade Center",
+      "ANSWER-4":"Chrysler Building",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the 1992 animated film 'Aladdin' what device does the hero use to travel from place to place?",
+      "ANSWER-1":"talking car",
+      "ANSWER-2":"winged horse",
+      "ANSWER-3":"magic carpet",
+      "ANSWER-4":"hot air balloon",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the Arthurian legend, who is married to Guinevere?",
+      "ANSWER-1":"Merlin",
+      "ANSWER-2":"King Arthur",
+      "ANSWER-3":"Lancelot",
+      "ANSWER-4":"Camelot",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the card game blackjack, how much are a queen and a king worth-together?",
+      "ANSWER-1":"11",
+      "ANSWER-2":"15",
+      "ANSWER-3":"20",
+      "ANSWER-4":"21",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the children's game, what color is 'Rover'?",
+      "ANSWER-1":"green",
+      "ANSWER-2":"black",
+      "ANSWER-3":"red",
+      "ANSWER-4":"blue",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the classic song 'Take Me Out to the Ballgame' for whom do we 'root root root'?",
+      "ANSWER-1":"the umpire",
+      "ANSWER-2":"the home team",
+      "ANSWER-3":"the bat boy",
+      "ANSWER-4":"Mighty Casey",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the comic strip 'Peanuts' what is Schroeder known for doing?",
+      "ANSWER-1":"Dancing",
+      "ANSWER-2":"playing football",
+      "ANSWER-3":"playing the piano",
+      "ANSWER-4":"Flying an imaginary plane",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the famous ballet 'The Nutcracker' who does the hero defeat?",
+      "ANSWER-1":"Sugar Plum Fairy",
+      "ANSWER-2":"Rat King",
+      "ANSWER-3":"Snow Queen",
+      "ANSWER-4":"Marzipan",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?",
+      "ANSWER-1":"Stormfield",
+      "ANSWER-2":"Fog City",
+      "ANSWER-3":"Mudville",
+      "ANSWER-4":"Waterlog",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the film 'Easy Rider' what emblem is on the back of Peter Fonda's leather jacket?",
+      "ANSWER-1":"peace symbol",
+      "ANSWER-2":"American flag",
+      "ANSWER-3":"two white doves",
+      "ANSWER-4":"Harley-Davidson logo",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the film 'The Talented Mr. Ripley' who plays Mr. Ripley?",
+      "ANSWER-1":"Jude Law",
+      "ANSWER-2":"Matt Damon",
+      "ANSWER-3":"Dustin Hoffman",
+      "ANSWER-4":"Ben Affleck",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the Jimmy Buffet song 'Margaritaville' what is the singer searching for?",
+      "ANSWER-1":"a lime",
+      "ANSWER-2":"a shaker of salt",
+      "ANSWER-3":"his car keys",
+      "ANSWER-4":"the bartender",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?",
+      "ANSWER-1":"Little Buddy",
+      "ANSWER-2":"Mini-Me",
+      "ANSWER-3":"Small Fry",
+      "ANSWER-4":"Dr. Evil Jr",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the movie 'Star Wars' what kind of creature is Chewbacca?",
+      "ANSWER-1":"Woolie",
+      "ANSWER-2":"Boobie",
+      "ANSWER-3":"Wookie",
+      "ANSWER-4":"Klingon",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the novel 'Around the World in 80 Days' Phileas Fogg's faithful valet is named what?",
+      "ANSWER-1":"Sancho Panza",
+      "ANSWER-2":"Passepartout",
+      "ANSWER-3":"Renfield",
+      "ANSWER-4":"Savoir Faire",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?",
+      "ANSWER-1":"Polly Finn",
+      "ANSWER-2":"Becky Thatcher",
+      "ANSWER-3":"Nancy Drew",
+      "ANSWER-4":"Emma Bovary",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the original 'Get Smart' TV series, what is agent Maxwell Smart's code name?",
+      "ANSWER-1":"Agent 86",
+      "ANSWER-2":"Agent 99",
+      "ANSWER-3":"Larrabee",
+      "ANSWER-4":"The Chief",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In the sci-fi movie 'Fantastic Voyage' where do the voyagers travel?",
+      "ANSWER-1":"through outer space",
+      "ANSWER-2":"through a human body",
+      "ANSWER-3":"to the ocean floor",
+      "ANSWER-4":"to the center of the earth",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In the story 'Jack and the Beanstalk' what does Jack trade to get the magic beans?",
+      "ANSWER-1":"a cow",
+      "ANSWER-2":"a hat",
+      "ANSWER-3":"a harp",
+      "ANSWER-4":"a goose",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In the television network abbreviation 'ABC' what does the 'A' stand for?",
+      "ANSWER-1":"Artistic",
+      "ANSWER-2":"Audio",
+      "ANSWER-3":"American",
+      "ANSWER-4":"Adult",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In the phrase 'Y2K' what does 'K' stand for?",
+      "ANSWER-1":"millennium",
+      "ANSWER-2":"computer code",
+      "ANSWER-3":"catastrophe",
+      "ANSWER-4":"thousand",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In the United States, what is the first day of spring?",
+      "ANSWER-1":"February 21",
+      "ANSWER-2":"March 21",
+      "ANSWER-3":"April 21",
+      "ANSWER-4":"May 21",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In traditional English puppet shows, who is married to the character Punch?",
+      "ANSWER-1":"Debbie",
+      "ANSWER-2":"Victoria",
+      "ANSWER-3":"Judy",
+      "ANSWER-4":"Barbara",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what city is TV's 'The Mary Tyler Moore Show' set?",
+      "ANSWER-1":"Dallas",
+      "ANSWER-2":"Chicago",
+      "ANSWER-3":"New York",
+      "ANSWER-4":"Minneapolis",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In what city would you find people studying art and design at the Fashion Institute of Technology?",
+      "ANSWER-1":"Paris",
+      "ANSWER-2":"New York",
+      "ANSWER-3":"Los Angeles",
+      "ANSWER-4":"Melbourne",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In what country are police officers referred to as 'bobbies'?",
+      "ANSWER-1":"Israel",
+      "ANSWER-2":"Greece",
+      "ANSWER-3":"England",
+      "ANSWER-4":"France",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what country did Magic Johnson play professional basketball during the 1999 season?",
+      "ANSWER-1":"United States",
+      "ANSWER-2":"Sweden",
+      "ANSWER-3":"Israel",
+      "ANSWER-4":"Turkey",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In what country did Pokemon originate?",
+      "ANSWER-1":"France",
+      "ANSWER-2":"Hungary",
+      "ANSWER-3":"Japan",
+      "ANSWER-4":"Canada",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what decade did Israel become an independent state?",
+      "ANSWER-1":"1920s",
+      "ANSWER-2":"1940s",
+      "ANSWER-3":"1950s",
+      "ANSWER-4":"1960s",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In what decade was the Hula-Hoop invented?",
+      "ANSWER-1":"1890s",
+      "ANSWER-2":"1920s",
+      "ANSWER-3":"1950s",
+      "ANSWER-4":"1970s",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what forest did Robin Hood live?",
+      "ANSWER-1":"Black Forest",
+      "ANSWER-2":"Petrified Forest",
+      "ANSWER-3":"Nottingham Forest",
+      "ANSWER-4":"Sherwood Forest",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In what restaurant can you order a Grand Slam breakfast?",
+      "ANSWER-1":"Denny's",
+      "ANSWER-2":"McDonald's",
+      "ANSWER-3":"Burger King",
+      "ANSWER-4":"Hardee's",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In what sport do athletes compete for the Walker Cup?",
+      "ANSWER-1":"cricket",
+      "ANSWER-2":"tennis",
+      "ANSWER-3":"squash",
+      "ANSWER-4":"golf",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In what sport do you find 'steel cage' matches?",
+      "ANSWER-1":"boxing",
+      "ANSWER-2":"fencing",
+      "ANSWER-3":"pro wrestling",
+      "ANSWER-4":"college basketball",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what state is the 1999 movie 'Magnolia' set?",
+      "ANSWER-1":"California",
+      "ANSWER-2":"South Carolina",
+      "ANSWER-3":"Georgia",
+      "ANSWER-4":"Texas",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In what U.S. city can you find the Basketball Hall of Fame?",
+      "ANSWER-1":"Canton, Ohio",
+      "ANSWER-2":"Cooperstown, New York",
+      "ANSWER-3":"Springfield, Massachusetts",
+      "ANSWER-4":"Lawrence, Kansas",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"In what year did the Great Depression begin?",
+      "ANSWER-1":"1884",
+      "ANSWER-2":"1929",
+      "ANSWER-3":"1953",
+      "ANSWER-4":"1975",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In what year did the United States last win an Olympic gold medal in men's ice hockey?",
+      "ANSWER-1":"1976",
+      "ANSWER-2":"1980",
+      "ANSWER-3":"1984",
+      "ANSWER-4":"1988",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"In which of the following bands did Jimmy Page not play guitar?",
+      "ANSWER-1":"Bad Company",
+      "ANSWER-2":"The Firm",
+      "ANSWER-3":"Led Zeppelin",
+      "ANSWER-4":"The Yardbirds",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"In which of these sports do competitors use a 'funny car'?",
+      "ANSWER-1":"supercross",
+      "ANSWER-2":"dogsledding",
+      "ANSWER-3":"gymnastics",
+      "ANSWER-4":"drag racing",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In what war did Joan of Arc fight?",
+      "ANSWER-1":"Hundred Years' War",
+      "ANSWER-2":"Franco-Prussian War",
+      "ANSWER-3":"French Revolution",
+      "ANSWER-4":"French and Indian War",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Including the bottom, how many sides are on a square-based pyramid?",
+      "ANSWER-1":"three",
+      "ANSWER-2":"four",
+      "ANSWER-3":"five",
+      "ANSWER-4":"six",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Into what body of water does the Rhone River flow?",
+      "ANSWER-1":"Atlantic Ocean",
+      "ANSWER-2":"Caspian Sea",
+      "ANSWER-3":"North Sea",
+      "ANSWER-4":"Mediterranean Sea",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"John D. Rockefeller made his fortune in what industry?",
+      "ANSWER-1":"automobile ",
+      "ANSWER-2":"oil",
+      "ANSWER-3":"steel",
+      "ANSWER-4":"railroad",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Modern computer microchips are primarily composed of what element?",
+      "ANSWER-1":"Sodium",
+      "ANSWER-2":"Silicon",
+      "ANSWER-3":"Aluminum",
+      "ANSWER-4":"Silver",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Mohair is made from the fleece of what animal?",
+      "ANSWER-1":"camel",
+      "ANSWER-2":"llama",
+      "ANSWER-3":"goat",
+      "ANSWER-4":"mole",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"'Nature, Mr. Allnut, is what we are put in this world to rise above' is a line from what film?",
+      "ANSWER-1":"'Citizen Kane'",
+      "ANSWER-2":"'The African Queen'",
+      "ANSWER-3":"'The Deer Hunter'",
+      "ANSWER-4":"'Adam's Rib'",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"On a set of jumper cables, what color designates the negative connector?",
+      "ANSWER-1":"black",
+      "ANSWER-2":"red",
+      "ANSWER-3":"orange",
+      "ANSWER-4":"blue",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"On average, what length of time passes between high tides?",
+      "ANSWER-1":"3 hours, 25 minutes",
+      "ANSWER-2":"6 hours, 25 minutes",
+      "ANSWER-3":"12 hours, 25 minutes",
+      "ANSWER-4":"24 hours, 25 minutes",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"On the TV show 'CHiPs' what was Officer Frank Poncherello's nickname?",
+      "ANSWER-1":"Franky",
+      "ANSWER-2":"Ponch",
+      "ANSWER-3":"Chipper",
+      "ANSWER-4":"Hot Dog",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"On the TV show 'Hill Street Blues' what is Joyce Davenport's nickname for Captain Frank Furillo?",
+      "ANSWER-1":"Furry Monster",
+      "ANSWER-2":"Pizza Man",
+      "ANSWER-3":"Snookums",
+      "ANSWER-4":"Baby Cakes",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"On TV's 'Seinfeld' what type of doctor did Mr. Costanza go to when he sat on 'fusilli Jerry'?",
+      "ANSWER-1":"ophthalmologist",
+      "ANSWER-2":"cardiologist",
+      "ANSWER-3":"neurologist",
+      "ANSWER-4":"proctologist",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"On Valentine's Day 2000, NASA's NEAR spacecraft began a yearlong orbit of what asteroid?",
+      "ANSWER-1":"Eros",
+      "ANSWER-2":"Cupid",
+      "ANSWER-3":"Aphrodite",
+      "ANSWER-4":"Venus",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"On what continent can you find tigers in the wild?",
+      "ANSWER-1":"Africa",
+      "ANSWER-2":"Asia",
+      "ANSWER-3":"Europe",
+      "ANSWER-4":"South America",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"On what body part should you wear a babushka?",
+      "ANSWER-1":"head",
+      "ANSWER-2":"hands",
+      "ANSWER-3":"foot",
+      "ANSWER-4":"legs",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"On which part of a car would you find the 'caliper'?",
+      "ANSWER-1":"battery",
+      "ANSWER-2":"engine",
+      "ANSWER-3":"radiator",
+      "ANSWER-4":"brakes",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Paper will burn at approximately what temperature, in Fahrenheit?",
+      "ANSWER-1":"98.6 degrees",
+      "ANSWER-2":"212.5 degrees",
+      "ANSWER-3":"398.5 degrees",
+      "ANSWER-4":"451 degrees",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"People are supposed to drive on the left-hand side of the road in which country?",
+      "ANSWER-1":"France",
+      "ANSWER-2":"Italy",
+      "ANSWER-3":"England",
+      "ANSWER-4":"Germany",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Phoebe, Dione and Helene are moons of what planet?",
+      "ANSWER-1":"Jupiter",
+      "ANSWER-2":"Saturn",
+      "ANSWER-3":"Neptune",
+      "ANSWER-4":"Pluto",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Pop icon Tiny Tim was famous for playing what musical instrument?",
+      "ANSWER-1":"ukulele",
+      "ANSWER-2":"kazoo",
+      "ANSWER-3":"accordion",
+      "ANSWER-4":"fiddle",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Someone would most likely contract salmonella poisoning from eating which of the following?",
+      "ANSWER-1":"carrots",
+      "ANSWER-2":"chicken",
+      "ANSWER-3":"tofu",
+      "ANSWER-4":"rice",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Stevie Wonder and Michael Jackson have both recorded duets with which former Beatle?",
+      "ANSWER-1":"Paul McCartney",
+      "ANSWER-2":"John Lennon",
+      "ANSWER-3":"George Harrison",
+      "ANSWER-4":"Ringo Starr",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"The American patriot Paul Revere was named for his father, whose original name was what?",
+      "ANSWER-1":"John Paul Revere",
+      "ANSWER-2":"Paul Silver",
+      "ANSWER-3":"Apollos Rivoire",
+      "ANSWER-4":"Paolo Reverini",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"The Original Apple iMac computer was available in all of the following colors except which?",
+      "ANSWER-1":"Tangerine",
+      "ANSWER-2":"Strawberry",
+      "ANSWER-3":"Kiwi",
+      "ANSWER-4":"Grape",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"The 'Arkansas toothpick' is better known by what name?",
+      "ANSWER-1":"Scottie Pippen",
+      "ANSWER-2":"spare rib",
+      "ANSWER-3":"pinkie finger",
+      "ANSWER-4":"Bowie knife",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"The British dish 'bangers and mash' is made up of sausage and what?",
+      "ANSWER-1":"eggs",
+      "ANSWER-2":"bacon",
+      "ANSWER-3":"liver",
+      "ANSWER-4":"potatoes",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"The common term for someone who has difficulty seeing objects in the distance is what?",
+      "ANSWER-1":"farsighted",
+      "ANSWER-2":"nearsighted",
+      "ANSWER-3":"hindsighted",
+      "ANSWER-4":"hypermetropic",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The dance known as the 'fandango' is of what origin?",
+      "ANSWER-1":"Australian",
+      "ANSWER-2":"African",
+      "ANSWER-3":"Native American",
+      "ANSWER-4":"Spanish",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"The disco band ABBA comes from what country?",
+      "ANSWER-1":"Norway",
+      "ANSWER-2":"Sweden",
+      "ANSWER-3":"Switzerland",
+      "ANSWER-4":"The Netherlands",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The film 'Stand By Me' is based on a novel by what author?",
+      "ANSWER-1":"Anne Proulx",
+      "ANSWER-2":"Stephen King",
+      "ANSWER-3":"Dean Koontz",
+      "ANSWER-4":"Frank McCourt",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The first commercial radio station was located in what city?",
+      "ANSWER-1":"Chicago",
+      "ANSWER-2":"Austin",
+      "ANSWER-3":"Pittsburgh",
+      "ANSWER-4":"Cleveland",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
+      "ANSWER-1":"'Humpty Dumpty'",
+      "ANSWER-2":"'Mary Had a Little Lamb'",
+      "ANSWER-3":"'Jack Be Nimble'",
+      "ANSWER-4":"'Home, Sweet Home'",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The majority of calcium in the human body is found where?",
+      "ANSWER-1":"hair",
+      "ANSWER-2":"blood",
+      "ANSWER-3":"bones",
+      "ANSWER-4":"digestive tract",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"The phrase 'hospital corners' refers to what?",
+      "ANSWER-1":"bed sheets",
+      "ANSWER-2":"paint",
+      "ANSWER-3":"landscaping",
+      "ANSWER-4":"scissors",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"The process of drilling holes in the skull is called what?",
+      "ANSWER-1":"bifurcation",
+      "ANSWER-2":"trepanation",
+      "ANSWER-3":"aeronomy",
+      "ANSWER-4":"skullduggery",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The sport of judo comes from what Asian country?",
+      "ANSWER-1":"Japan",
+      "ANSWER-2":"Vietnam",
+      "ANSWER-3":"Laos",
+      "ANSWER-4":"Philippines",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"The Strauss family of composers popularized what dance?",
+      "ANSWER-1":"waltz",
+      "ANSWER-2":"tango",
+      "ANSWER-3":"fox-trot",
+      "ANSWER-4":"square dance",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"The term 'chili con carne' refers to chili with what?",
+      "ANSWER-1":"beans ",
+      "ANSWER-2":"meat",
+      "ANSWER-3":"cheese",
+      "ANSWER-4":"chili peppers",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"The TV show 'House of Style' airs on what network?",
+      "ANSWER-1":"E",
+      "ANSWER-2":"WB",
+      "ANSWER-3":"MTV",
+      "ANSWER-4":"Home Shopping Network",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"To create a tapestry, one must traditionally engage in what activity?",
+      "ANSWER-1":"weaving",
+      "ANSWER-2":"sculpting",
+      "ANSWER-3":"baking",
+      "ANSWER-4":"singing",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"To make an international telephone call from within the US, what are the first numbers you should dial?",
+      "ANSWER-1":"011",
+      "ANSWER-2":"101",
+      "ANSWER-3":"888",
+      "ANSWER-4":"911",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"To ward off bad luck, what do many people do to wood?",
+      "ANSWER-1":"knock on it",
+      "ANSWER-2":"kiss it",
+      "ANSWER-3":"thank it",
+      "ANSWER-4":"scratch it",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What actress starred on 'Charlie's Angels' for the show's entire run?",
+      "ANSWER-1":"Cheryl Ladd",
+      "ANSWER-2":"Farrah Fawcett",
+      "ANSWER-3":"Jaclyn Smith",
+      "ANSWER-4":"Kate Jackson",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What animal is considered sacred in India?",
+      "ANSWER-1":"sheep",
+      "ANSWER-2":"cow",
+      "ANSWER-3":"chicken",
+      "ANSWER-4":"dog",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What animal is used to make lard?",
+      "ANSWER-1":"pig",
+      "ANSWER-2":"cow",
+      "ANSWER-3":"snake",
+      "ANSWER-4":"chicken",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What animal represents the year 2000 on the Chinese calendar?",
+      "ANSWER-1":"dragon",
+      "ANSWER-2":"rabbit",
+      "ANSWER-3":"tiger",
+      "ANSWER-4":"monkey",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What animated character has a crush on the Little Red Haired Girl?",
+      "ANSWER-1":"Richie Rich",
+      "ANSWER-2":"Charlie Brown",
+      "ANSWER-3":"Bugs Bunny",
+      "ANSWER-4":"Jonny Quest",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What are fans of the TV show 'Mystery Science Theater 3000' known as?",
+      "ANSWER-1":"Mysterians",
+      "ANSWER-2":"MiSTies",
+      "ANSWER-3":"'Bot Brigade",
+      "ANSWER-4":"Gizmonics",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What are the dimensions of a 'letter size' piece of paper?",
+      "ANSWER-1":"3 1/2 x 5 inches",
+      "ANSWER-2":"5 x 10 inches",
+      "ANSWER-3":"8 1/2 x 11 inches",
+      "ANSWER-4":"11 x 17 inches",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What are the names of Donald Duck's three nephews?",
+      "ANSWER-1":"Quick, Quack, Quock",
+      "ANSWER-2":"Alvin, Simon, Theodore",
+      "ANSWER-3":"Robbie, Chip, Ernie",
+      "ANSWER-4":"Huey, Dewey, Louie",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What are the names of the two primary M&M's spokes-candies?",
+      "ANSWER-1":"Peanut and Plain",
+      "ANSWER-2":"Red and Yellow",
+      "ANSWER-3":"Mort and Marty",
+      "ANSWER-4":"They don't have names",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What are the plastic boxes that hold compact discs called?",
+      "ANSWER-1":"frame cases",
+      "ANSWER-2":"jewel cases",
+      "ANSWER-3":"slip cases",
+      "ANSWER-4":"wafer boxes",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What are the Smothers Brothers' first names?",
+      "ANSWER-1":"Frank and Bill",
+      "ANSWER-2":"Tom and Dick",
+      "ANSWER-3":"Dave and George",
+      "ANSWER-4":"Ed and Pete",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What article of clothing best describes a 'pashmina'?",
+      "ANSWER-1":"shoes",
+      "ANSWER-2":"pants",
+      "ANSWER-3":"scarf",
+      "ANSWER-4":"underwear",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What automobile company makes the Sonata?",
+      "ANSWER-1":"Toyota",
+      "ANSWER-2":"Honda",
+      "ANSWER-3":"Subaru",
+      "ANSWER-4":"Hyundai",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What biological process replicates DNA?",
+      "ANSWER-1":"molting",
+      "ANSWER-2":"mitosis",
+      "ANSWER-3":"diffusion",
+      "ANSWER-4":"peristalsis",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What car company once manufactured and sold the 'Datsun' line of automobiles?",
+      "ANSWER-1":"Nissan",
+      "ANSWER-2":"Mazda",
+      "ANSWER-3":"Toyota",
+      "ANSWER-4":"Daihatsu",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What cartoon character traveled in a time machine with Mr. Peabody?",
+      "ANSWER-1":"Rocky",
+      "ANSWER-2":"Jonny Quest",
+      "ANSWER-3":"Underdog",
+      "ANSWER-4":"Sherman",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What character did Woody replace on the TV show 'Cheers'?",
+      "ANSWER-1":"Coach",
+      "ANSWER-2":"Diane",
+      "ANSWER-3":"Norm",
+      "ANSWER-4":"Frasier",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What chemical do people frequently use to bleach hair?",
+      "ANSWER-1":"folic acid",
+      "ANSWER-2":"hydrogen peroxide",
+      "ANSWER-3":"sodium chloride",
+      "ANSWER-4":"nitrous oxide",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What children's storybook character believes that the sky is falling?",
+      "ANSWER-1":"Chicken Little",
+      "ANSWER-2":"Curious George",
+      "ANSWER-3":"Jack Sprat",
+      "ANSWER-4":"Tom Thumb",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What children's TV character is known as 'Da Niao' in China?",
+      "ANSWER-1":"Barney",
+      "ANSWER-2":"Big Bird",
+      "ANSWER-3":"Mickey Mouse",
+      "ANSWER-4":"Tinky Winky",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What city did the Beatles originally call home?",
+      "ANSWER-1":"London",
+      "ANSWER-2":"Leeds",
+      "ANSWER-3":"Liverpool",
+      "ANSWER-4":"Manchester",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What city is known as 'the rubber capital of the world'?",
+      "ANSWER-1":"Omaha, Nebraska",
+      "ANSWER-2":"Rockford, Illinois",
+      "ANSWER-3":"Grand Rapids, Michigan",
+      "ANSWER-4":"Akron, Ohio",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What city's airport uses the code ORD?",
+      "ANSWER-1":"Chicago",
+      "ANSWER-2":"Orlando",
+      "ANSWER-3":"New York City",
+      "ANSWER-4":"Portland",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What city's residents are known as 'Knickerbockers'?",
+      "ANSWER-1":"Boston",
+      "ANSWER-2":"Philadelphia",
+      "ANSWER-3":"New York City",
+      "ANSWER-4":"London",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What color is a ruby?",
+      "ANSWER-1":"red",
+      "ANSWER-2":"black",
+      "ANSWER-3":"yellow",
+      "ANSWER-4":"blue",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What color is cartoon character Marge Simpson's hair?",
+      "ANSWER-1":"yellow",
+      "ANSWER-2":"purple",
+      "ANSWER-3":"blue",
+      "ANSWER-4":"brown",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What color is the masthead of USA Today's 'Life' section?",
+      "ANSWER-1":"green",
+      "ANSWER-2":"purple",
+      "ANSWER-3":"red",
+      "ANSWER-4":"blue",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What color is Uncle Sam's goatee?",
+      "ANSWER-1":"brown",
+      "ANSWER-2":"black ",
+      "ANSWER-3":"white",
+      "ANSWER-4":"dishwater blond",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What colors are the two circles in the MasterCard logo?",
+      "ANSWER-1":"pink and orange",
+      "ANSWER-2":"blue and green",
+      "ANSWER-3":"black and white",
+      "ANSWER-4":"red and yellow",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What color is Pepto-Bismol liquid?",
+      "ANSWER-1":"pink",
+      "ANSWER-2":"blue",
+      "ANSWER-3":"clear",
+      "ANSWER-4":"green",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What company makes Oreo cookies?",
+      "ANSWER-1":"General Mills",
+      "ANSWER-2":"Nabisco",
+      "ANSWER-3":"Keebler",
+      "ANSWER-4":"Kraft",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What company makes perfumes called 'Beautiful' and 'Pleasures'?",
+      "ANSWER-1":"Estee Lauder",
+      "ANSWER-2":"Ralph Lauren",
+      "ANSWER-3":"Elizabeth Arden",
+      "ANSWER-4":"Calvin Klein",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What condition is caused by malfunctioning sebaceous glands?",
+      "ANSWER-1":"bad breath",
+      "ANSWER-2":"shingles",
+      "ANSWER-3":"acne",
+      "ANSWER-4":"carpal tunnel syndrome",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What corporation was founded by a candlemaker and a soapmaker?",
+      "ANSWER-1":"Simon & Schuster",
+      "ANSWER-2":"Procter & Gamble",
+      "ANSWER-3":"Johnson & Johnson",
+      "ANSWER-4":"Smith & Wesson",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What country does Bordeaux wine come from?",
+      "ANSWER-1":"France",
+      "ANSWER-2":"Spain",
+      "ANSWER-3":"Australia",
+      "ANSWER-4":"United States",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What country gave us the fashionable headgear called the beret?",
+      "ANSWER-1":"Switzerland",
+      "ANSWER-2":"China",
+      "ANSWER-3":"Mexico",
+      "ANSWER-4":"France",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What country is famous for making wooden shoes?",
+      "ANSWER-1":"Russia",
+      "ANSWER-2":"Thailand",
+      "ANSWER-3":"The Netherlands",
+      "ANSWER-4":"Australia",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What country is the rock group U2 from?",
+      "ANSWER-1":"England",
+      "ANSWER-2":"Ireland",
+      "ANSWER-3":"Belgium",
+      "ANSWER-4":"Germany",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What country was once ruled by shoguns?",
+      "ANSWER-1":"China",
+      "ANSWER-2":"Japan",
+      "ANSWER-3":"North Korea",
+      "ANSWER-4":"Taiwan",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What day of the week is sometimes called 'hump day'?",
+      "ANSWER-1":"Wednesday",
+      "ANSWER-2":"Thursday",
+      "ANSWER-3":"Friday",
+      "ANSWER-4":"Saturday",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What disease does a carcinogen cause?",
+      "ANSWER-1":"cancer",
+      "ANSWER-2":"influenza",
+      "ANSWER-3":"emphysema",
+      "ANSWER-4":"heart disease",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What disease is characterized by a body's inability to properly metabolize glucose?",
+      "ANSWER-1":"Influenza",
+      "ANSWER-2":"Septicemia",
+      "ANSWER-3":"Diabetes",
+      "ANSWER-4":"Arthritis",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What disease is sometimes referred to as the 'royal disease'?",
+      "ANSWER-1":"rickets",
+      "ANSWER-2":"measles",
+      "ANSWER-3":"hemophilia",
+      "ANSWER-4":"tuberculosis",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What do the initials 'E. E.' in poet E. E. Cummings' name stand for?",
+      "ANSWER-1":"Edward Estlin",
+      "ANSWER-2":"Edmund Earl",
+      "ANSWER-3":"Ernest Eakins",
+      "ANSWER-4":"Eugene Evan",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What do you call a young cow?",
+      "ANSWER-1":"mare",
+      "ANSWER-2":"lamb",
+      "ANSWER-3":"kid",
+      "ANSWER-4":"calf",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What do you call three consecutive strikes in bowling?",
+      "ANSWER-1":"yahtzee",
+      "ANSWER-2":"mulligan",
+      "ANSWER-3":"turkey",
+      "ANSWER-4":"ace",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What does a pH level measure?",
+      "ANSWER-1":"acidity",
+      "ANSWER-2":"density",
+      "ANSWER-3":"wavelength",
+      "ANSWER-4":"humidity",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What does an animal produce when it lactates?",
+      "ANSWER-1":"sweat",
+      "ANSWER-2":"wool",
+      "ANSWER-3":"milk",
+      "ANSWER-4":"methane",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What does it mean to work 'pro bono'?",
+      "ANSWER-1":"work overtime",
+      "ANSWER-2":"work without pay",
+      "ANSWER-3":"work as your own boss",
+      "ANSWER-4":"not work at all",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What does the acronym 'REM' stand for?",
+      "ANSWER-1":"random energy module",
+      "ANSWER-2":"rapid eye movement",
+      "ANSWER-3":"red entertainment machine",
+      "ANSWER-4":"really energetic music",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What does the Latin phrase 'e pluribus unum' mean?",
+      "ANSWER-1":"What a crazy life.",
+      "ANSWER-2":"In God we trust.",
+      "ANSWER-3":"from many, one",
+      "ANSWER-4":"for the greater good",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What does the 'ROM' in CD-ROM stand for?",
+      "ANSWER-1":"Really Obscure Memory",
+      "ANSWER-2":"Run-Other Memory",
+      "ANSWER-3":"Random Object Memory",
+      "ANSWER-4":"Read-Only Memory",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What does the Yiddish word 'meshuga' mean?",
+      "ANSWER-1":"crazy",
+      "ANSWER-2":"sacred",
+      "ANSWER-3":"stingy",
+      "ANSWER-4":"sweet",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What exercise apparatus is used during a 'Spinning' class?",
+      "ANSWER-1":"stationary bicycle",
+      "ANSWER-2":"treadmill",
+      "ANSWER-3":"rowing machine",
+      "ANSWER-4":"barbells",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What famous folksinger founded the Institute for the Study of Non-Violence in 1965?",
+      "ANSWER-1":"Bob Dylan",
+      "ANSWER-2":"Woody Guthrie",
+      "ANSWER-3":"Joan Baez",
+      "ANSWER-4":"Peter Yarrow",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What famous radio personality was also the voice of Shaggy on the cartoon 'Scooby-Doo'?",
+      "ANSWER-1":"Rush Limbaugh",
+      "ANSWER-2":"Casey Kasem",
+      "ANSWER-3":"Larry King",
+      "ANSWER-4":"Howard Stern",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What fictional character claims to be 'smarter than the average bear'?",
+      "ANSWER-1":"Paddington Bear",
+      "ANSWER-2":"Fozzie Bear",
+      "ANSWER-3":"Smokey Bear",
+      "ANSWER-4":"Yogi Bear",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What French city is home to a famous international film festival each spring?",
+      "ANSWER-1":"Cannes",
+      "ANSWER-2":"Marseille",
+      "ANSWER-3":"Dijon",
+      "ANSWER-4":"Lyon",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What football player was known as 'The Galloping Ghost'?",
+      "ANSWER-1":"Jim Thorpe",
+      "ANSWER-2":"Dick Butkus",
+      "ANSWER-3":"Red Grange",
+      "ANSWER-4":"George Halas",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What force causes an ice cream cone to fly off of a spinning merry-go-round?",
+      "ANSWER-1":"centrifugal",
+      "ANSWER-2":"vehicular",
+      "ANSWER-3":"gravitational",
+      "ANSWER-4":"torsal",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What former 'Today' show personality played a neighbor on the TV sitcom 'The Hogan Family'?",
+      "ANSWER-1":"Jane Pauley",
+      "ANSWER-2":"Willard Scott",
+      "ANSWER-3":"Deborah Norville",
+      "ANSWER-4":"Joe Garagiola",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What Greek poet wrote 'The Iliad' and 'The Odyssey'?",
+      "ANSWER-1":"Sophocles",
+      "ANSWER-2":"Plato",
+      "ANSWER-3":"Homer",
+      "ANSWER-4":"Socrates",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What high school does the gang from the 'Archie' comic strip attend?",
+      "ANSWER-1":"Ridgemont High",
+      "ANSWER-2":"Riverdale High",
+      "ANSWER-3":"Rumson High",
+      "ANSWER-4":"Riker's Island High",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What important food crop is grown in fields called paddies?",
+      "ANSWER-1":"wheat",
+      "ANSWER-2":"rye",
+      "ANSWER-3":"corn",
+      "ANSWER-4":"rice",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What internet company goes by the acronym AOL?",
+      "ANSWER-1":"America Over Lines",
+      "ANSWER-2":"America Online",
+      "ANSWER-3":"Americans On Links",
+      "ANSWER-4":"Americans On LOR",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is a balalaika?",
+      "ANSWER-1":"musical instrument",
+      "ANSWER-2":"Russian peasant",
+      "ANSWER-3":"type of hat",
+      "ANSWER-4":"breed of shark",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is a Dutch oven?",
+      "ANSWER-1":"a toaster oven",
+      "ANSWER-2":"a microwave",
+      "ANSWER-3":"a kettle pot",
+      "ANSWER-4":"a sauna",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is actor Antonio Banderas native language?",
+      "ANSWER-1":"Spanish",
+      "ANSWER-2":"Russian",
+      "ANSWER-3":"German",
+      "ANSWER-4":"French",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is an alternate name for the food dish 'Beijing duck'?",
+      "ANSWER-1":"Shanghai duck",
+      "ANSWER-2":"Peking duck",
+      "ANSWER-3":"Hong Kong duck",
+      "ANSWER-4":"Brooklyn duck",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is another name for the camelopard?",
+      "ANSWER-1":"circus",
+      "ANSWER-2":"giraffe",
+      "ANSWER-3":"cantaloupe",
+      "ANSWER-4":"oasis",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is another way of writing 'six feet'?",
+      "ANSWER-1":"6'",
+      "ANSWER-2":"6",
+      "ANSWER-3":"6''",
+      "ANSWER-4":"6#",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is called a 'lorry' in Britain?",
+      "ANSWER-1":"a toaster",
+      "ANSWER-2":"a truck",
+      "ANSWER-3":"a babysitter",
+      "ANSWER-4":"an elevator",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is considered the proper way to address a duke?",
+      "ANSWER-1":"'Your Majesty'",
+      "ANSWER-2":"'Your Eminence'",
+      "ANSWER-3":"'Your Excellency'",
+      "ANSWER-4":"'Your Grace'",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is Delta Burke's character's job on the sitcom 'Designing Women'?",
+      "ANSWER-1":"fashion designer",
+      "ANSWER-2":"graphic designer",
+      "ANSWER-3":"interior designer",
+      "ANSWER-4":"website designer",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is New Mexico's nickname?",
+      "ANSWER-1":"'The Desert State'",
+      "ANSWER-2":"'Gateway to Paradise'",
+      "ANSWER-3":"'Land of Enchantment'",
+      "ANSWER-4":"'The Garden State'",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is produced during photosynthesis?",
+      "ANSWER-1":"hydrogen",
+      "ANSWER-2":"nylon",
+      "ANSWER-3":"oxygen",
+      "ANSWER-4":"light",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the 7-Eleven company's trademarked name for its super-large sodas?",
+      "ANSWER-1":"Big Slurp",
+      "ANSWER-2":"Big Gulp",
+      "ANSWER-3":"Big Drink",
+      "ANSWER-4":"Big Sip",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the approximate speed of light?",
+      "ANSWER-1":"165 miles per hour",
+      "ANSWER-2":"122,000 miles per hour",
+      "ANSWER-3":"186,000 miles per second",
+      "ANSWER-4":"293,000 miles per second",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the art of elegant handwriting called?",
+      "ANSWER-1":"calligraphy",
+      "ANSWER-2":"engraving",
+      "ANSWER-3":"decoupage",
+      "ANSWER-4":"lithography",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the baseball term for a batter who substitutes for another batter?",
+      "ANSWER-1":"switchhitter",
+      "ANSWER-2":"shadow hitter",
+      "ANSWER-3":"clip hitter ",
+      "ANSWER-4":"pinch hitter",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the birthstone for the month of January?",
+      "ANSWER-1":"topaz",
+      "ANSWER-2":"garnet",
+      "ANSWER-3":"opal",
+      "ANSWER-4":"diamond",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the capital of New Zealand?",
+      "ANSWER-1":"Sydney",
+      "ANSWER-2":"Wellington",
+      "ANSWER-3":"Auckland",
+      "ANSWER-4":"Melbourne",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the capital of North Dakota?",
+      "ANSWER-1":"Bismarck",
+      "ANSWER-2":"Fargo",
+      "ANSWER-3":"Sioux Falls",
+      "ANSWER-4":"Pierre",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the chemical process wherein a solid is turned to a liquid via the application of heat?",
+      "ANSWER-1":"distillation",
+      "ANSWER-2":"photosynthesis",
+      "ANSWER-3":"freezing",
+      "ANSWER-4":"melting",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the colored part of the eye called?",
+      "ANSWER-1":"iris",
+      "ANSWER-2":"pupil",
+      "ANSWER-3":"retina",
+      "ANSWER-4":"cochlea",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the correct spelling of New Mexico's largest city?",
+      "ANSWER-1":"Albuqerque",
+      "ANSWER-2":"Albuquerque",
+      "ANSWER-3":"Albequerque",
+      "ANSWER-4":"Santa Fe",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the final word of the Pledge of Allegiance?",
+      "ANSWER-1":"America",
+      "ANSWER-2":"stands",
+      "ANSWER-3":"indivisible",
+      "ANSWER-4":"all",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the largest animal ever to live on Earth?",
+      "ANSWER-1":"blue whale",
+      "ANSWER-2":"giant squid",
+      "ANSWER-3":"woolly mammoth",
+      "ANSWER-4":"Tyrannosaurus",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the largest city in Pennsylvania?",
+      "ANSWER-1":"Philadelphia",
+      "ANSWER-2":"Stewartsville",
+      "ANSWER-3":"Harrisburg",
+      "ANSWER-4":"Pittsburgh",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the last book of the New Testament?",
+      "ANSWER-1":"Revelation",
+      "ANSWER-2":"Judges",
+      "ANSWER-3":"Ruth",
+      "ANSWER-4":"John",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the last letter of the Greek alphabet?",
+      "ANSWER-1":"omicron",
+      "ANSWER-2":"omega",
+      "ANSWER-3":"upsilon",
+      "ANSWER-4":"zeta",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the meaning of 'Betelgeuse', the name of the brightest star in the constellation Orion?",
+      "ANSWER-1":"blossom on a shield",
+      "ANSWER-2":"eye of the archer",
+      "ANSWER-3":"the lion's mane",
+      "ANSWER-4":"armpit of the giant",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the medical term for a doctor's identification of a disease?",
+      "ANSWER-1":"Hypnosis",
+      "ANSWER-2":"Prognosis",
+      "ANSWER-3":"Trichinosis",
+      "ANSWER-4":"Diagnosis",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the more common name for the disease 'pertussis'?",
+      "ANSWER-1":"whooping cough",
+      "ANSWER-2":"tennis elbow",
+      "ANSWER-3":"black lung",
+      "ANSWER-4":"German measles",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the most popular month for weddings in America?",
+      "ANSWER-1":"January",
+      "ANSWER-2":"May",
+      "ANSWER-3":"August",
+      "ANSWER-4":"November",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the name for the thin board used to mix colors while painting?",
+      "ANSWER-1":"pestle",
+      "ANSWER-2":"easel",
+      "ANSWER-3":"shoe",
+      "ANSWER-4":"palette",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the name of Howard Stern's female on-air sidekick?",
+      "ANSWER-1":"Allison Norris",
+      "ANSWER-2":"Jackie Reeses",
+      "ANSWER-3":"Jackie Martling",
+      "ANSWER-4":"Robin Quivers",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the name of Mario's brother in the 'Super Mario' video games?",
+      "ANSWER-1":"Louis",
+      "ANSWER-2":"Luigi",
+      "ANSWER-3":"Luciano",
+      "ANSWER-4":"Zelda",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the name of Raggedy Ann's doll brother?",
+      "ANSWER-1":"Red",
+      "ANSWER-2":"Freckles",
+      "ANSWER-3":"Randy",
+      "ANSWER-4":"Andy",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
+      "ANSWER-1":"Pun'kin",
+      "ANSWER-2":"Lamikins",
+      "ANSWER-3":"Suga'baby",
+      "ANSWER-4":"Swee'pea",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the name of the character Played by Woody Allen in the 1967 James Bond film 'Casino Royale'?",
+      "ANSWER-1":"Dr. Evil",
+      "ANSWER-2":"Q",
+      "ANSWER-3":"Little Jimmy Bond",
+      "ANSWER-4":"M",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the name of the female character played by comedian Flip Wilson on his 1970s TV show?",
+      "ANSWER-1":"Miss Jackie",
+      "ANSWER-2":"Elizabeth Sanford",
+      "ANSWER-3":"Geraldine Jones",
+      "ANSWER-4":"Gladys Knight",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the name of the fruit that is half tangerine and half grapefruit?",
+      "ANSWER-1":"graperine",
+      "ANSWER-2":"tangefruit",
+      "ANSWER-3":"tangelo",
+      "ANSWER-4":"kumquat",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the name of the mountain where the mythological Greek gods live?",
+      "ANSWER-1":"Jupiter",
+      "ANSWER-2":"Olympus",
+      "ANSWER-3":"Vesuvius",
+      "ANSWER-4":"Valhalla",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the name of the Newtonian law that states 'An object in Motion tends to stay in motion'?",
+      "ANSWER-1":"Law of Inertia",
+      "ANSWER-2":"Law of Thermodynamics",
+      "ANSWER-3":"Law of Relativity",
+      "ANSWER-4":"Law of Gravitation",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the name of the POW camp where 'Hogan's Heroes' are held?",
+      "ANSWER-1":"Stalag 13",
+      "ANSWER-2":"Alcatraz 17",
+      "ANSWER-3":"Devil's Island",
+      "ANSWER-4":"Leavenworth",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the name of the South African political party that was headed by Nelson Mandela?",
+      "ANSWER-1":"African National Congress",
+      "ANSWER-2":"South African Democrats",
+      "ANSWER-3":"Inkatha Freedom Party",
+      "ANSWER-4":"Aryan National Assembly",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the name of the StarKist tuna mascot?",
+      "ANSWER-1":"Charlie",
+      "ANSWER-2":"Sam",
+      "ANSWER-3":"Al",
+      "ANSWER-4":"Morris",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the name of the Swedish company that specializes in affordable furniture?",
+      "ANSWER-1":"Gambro",
+      "ANSWER-2":"Electrolux",
+      "ANSWER-3":"Saab",
+      "ANSWER-4":"IKEA",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the national animal of Australia?",
+      "ANSWER-1":"koala",
+      "ANSWER-2":"kangaroo",
+      "ANSWER-3":"platypus",
+      "ANSWER-4":"alligator",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the nickname of Florida's controversial death row electric chair?",
+      "ANSWER-1":"Old Yeller",
+      "ANSWER-2":"Old Geezer",
+      "ANSWER-3":"Old Smoky",
+      "ANSWER-4":"Old Sparky",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the normal playback speed of a 12\" long-playing record?",
+      "ANSWER-1":"12 1/2 rpm",
+      "ANSWER-2":"33 1/3 rpm",
+      "ANSWER-3":"45 rpm",
+      "ANSWER-4":"100 rpm",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the official language of The Netherlands?",
+      "ANSWER-1":"Danish",
+      "ANSWER-2":"Swedish",
+      "ANSWER-3":"German",
+      "ANSWER-4":"Dutch",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the oldest continuously run sporting event in the United States?",
+      "ANSWER-1":"Westminster Dog Show",
+      "ANSWER-2":"Boston Marathon",
+      "ANSWER-3":"Kentucky Derby",
+      "ANSWER-4":"Indianapolis 500",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the oldest permanent European settlement in the United States?",
+      "ANSWER-1":"St. Augustine, Florida",
+      "ANSWER-2":"Plymouth, Massachusetts",
+      "ANSWER-3":"Newport News, Virginia",
+      "ANSWER-4":"Charlotte, North Carolina",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is the principal ingredient in traditional cole slaw?",
+      "ANSWER-1":"lettuce",
+      "ANSWER-2":"spinach ",
+      "ANSWER-3":"cabbage",
+      "ANSWER-4":"chicory",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the proletariat?",
+      "ANSWER-1":"the homeless",
+      "ANSWER-2":"the royalty",
+      "ANSWER-3":"the upper class",
+      "ANSWER-4":"the working class",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What is the proper nautical use of an anchor?",
+      "ANSWER-1":"to catch large fish",
+      "ANSWER-2":"to calculate water depth",
+      "ANSWER-3":"to hold a ship in place",
+      "ANSWER-4":"to damage other boats",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the singular form of the word 'graffiti'?",
+      "ANSWER-1":"graffita",
+      "ANSWER-2":"graffitem",
+      "ANSWER-3":"graffito",
+      "ANSWER-4":"graffitus",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the square root of 81 squared?",
+      "ANSWER-1":"9",
+      "ANSWER-2":"27",
+      "ANSWER-3":"81",
+      "ANSWER-4":"729",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the technical term for someone who studies fish?",
+      "ANSWER-1":"entomologist",
+      "ANSWER-2":"ichthyologist",
+      "ANSWER-3":"marinologist",
+      "ANSWER-4":"herpetologist",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What is the technical term for the offspring of a female donkey and a male horse?",
+      "ANSWER-1":"burro",
+      "ANSWER-2":"dorse",
+      "ANSWER-3":"hinny",
+      "ANSWER-4":"honker",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is the traditional 20th wedding anniversary gift?",
+      "ANSWER-1":"paper",
+      "ANSWER-2":"leather",
+      "ANSWER-3":"china",
+      "ANSWER-4":"silver",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is varicella?",
+      "ANSWER-1":"a fancy pasta",
+      "ANSWER-2":"a type of opera",
+      "ANSWER-3":"the chicken pox virus",
+      "ANSWER-4":"ancient Roman poetry",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What is your astrological sign if you were born on Halloween?",
+      "ANSWER-1":"Scorpio",
+      "ANSWER-2":"Capricorn",
+      "ANSWER-3":"Libra",
+      "ANSWER-4":"Cancer",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What is your hallux?",
+      "ANSWER-1":"earlobe",
+      "ANSWER-2":"tongue",
+      "ANSWER-3":"eyelid",
+      "ANSWER-4":"big toe",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What kind of angle is formed where two perpendicular lines meet?",
+      "ANSWER-1":"obtuse",
+      "ANSWER-2":"acute",
+      "ANSWER-3":"right",
+      "ANSWER-4":"invisible",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What kind of animal is a peregrine?",
+      "ANSWER-1":"moose",
+      "ANSWER-2":"cat",
+      "ANSWER-3":"bird",
+      "ANSWER-4":"fish",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What kind of animal is cartoon character Tennessee Tuxedo?",
+      "ANSWER-1":"cat",
+      "ANSWER-2":"skunk",
+      "ANSWER-3":"walrus",
+      "ANSWER-4":"penguin",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?",
+      "ANSWER-1":"Lamborghini",
+      "ANSWER-2":"Camaro",
+      "ANSWER-3":"Corvette",
+      "ANSWER-4":"Trans Am",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What kind of flying contraption is featured in the movie 'Chitty Chitty Bang Bang'?",
+      "ANSWER-1":"boat",
+      "ANSWER-2":"car",
+      "ANSWER-3":"truck",
+      "ANSWER-4":"bike",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What kind of item is a ginsu?",
+      "ANSWER-1":"radio",
+      "ANSWER-2":"knife",
+      "ANSWER-3":"toothbrush",
+      "ANSWER-4":"martial arts weapon",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What kind of worker uses a 'paddy wagon'?",
+      "ANSWER-1":"limo driver",
+      "ANSWER-2":"police officer",
+      "ANSWER-3":"rice farmer",
+      "ANSWER-4":"paramedic",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What letters are on the '3' button of a touch-tone telephone?",
+      "ANSWER-1":"ABC",
+      "ANSWER-2":"DEF",
+      "ANSWER-3":"GHI",
+      "ANSWER-4":"WXY",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What liqueur is used to make a Pink Lady cocktail pink?",
+      "ANSWER-1":"grenadine",
+      "ANSWER-2":"schnapps",
+      "ANSWER-3":"triple sec",
+      "ANSWER-4":"pernod",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What literary work is the source of the quote 'Abandon every hope, all you who enter here'?",
+      "ANSWER-1":"'Paradise Lost'",
+      "ANSWER-2":"'The Divine Comedy'",
+      "ANSWER-3":"'Beowulf'",
+      "ANSWER-4":"'Twilight'",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What mathematical term is used to describe the average of a series of numbers?",
+      "ANSWER-1":"median",
+      "ANSWER-2":"mode",
+      "ANSWER-3":"majority",
+      "ANSWER-4":"mean",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What metal device is used by police to immobilize the wheels of repeat parking offenders?",
+      "ANSWER-1":"Brooklyn clamp",
+      "ANSWER-2":"Denver boot",
+      "ANSWER-3":"LoJack",
+      "ANSWER-4":"The Club",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What Mexican holiday takes place on May 5th?",
+      "ANSWER-1":"Mexican Independence Day",
+      "ANSWER-2":"Santa Anna's Birthday",
+      "ANSWER-3":"Cinco de Mayo",
+      "ANSWER-4":"Christmas",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What nationality was Karl Marx?",
+      "ANSWER-1":"Russian",
+      "ANSWER-2":"German",
+      "ANSWER-3":"Danish",
+      "ANSWER-4":"English",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What Native American tribe did chief Crazy Horse lead?",
+      "ANSWER-1":"Apache",
+      "ANSWER-2":"Comanche",
+      "ANSWER-3":"Sioux",
+      "ANSWER-4":"Iroquois",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What native empire controlled Large areas of South African Territory during the 19th century?",
+      "ANSWER-1":"Hutu",
+      "ANSWER-2":"Zulu",
+      "ANSWER-3":"Aztec",
+      "ANSWER-4":"Masai",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What New Age musician released a 1998 album titled 'King of the Pan Flute'?",
+      "ANSWER-1":"Zamfir",
+      "ANSWER-2":"Yanni",
+      "ANSWER-3":"Vangelis",
+      "ANSWER-4":"Kenny G",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What new token was recently added to the Monopoly board game?",
+      "ANSWER-1":"piggybank",
+      "ANSWER-2":"sack of money",
+      "ANSWER-3":"globe",
+      "ANSWER-4":"telephone",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What newspaper do Lois Lane and Clark Kent work for?",
+      "ANSWER-1":"The Bugle",
+      "ANSWER-2":"The Daily Planet",
+      "ANSWER-3":"The Metropolis Tribune",
+      "ANSWER-4":"The New York Times",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What part of the human body does a gastroenterologist examine?",
+      "ANSWER-1":"brain",
+      "ANSWER-2":"skeleton",
+      "ANSWER-3":"stomach",
+      "ANSWER-4":"nose",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What part of the world was once known as Cathay?",
+      "ANSWER-1":"China",
+      "ANSWER-2":"India",
+      "ANSWER-3":"Iran",
+      "ANSWER-4":"Indonesia",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?",
+      "ANSWER-1":"Pueblo",
+      "ANSWER-2":"Aztec",
+      "ANSWER-3":"Inca",
+      "ANSWER-4":"Apache",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+      "ANSWER-1":"Budapest",
+      "ANSWER-2":"Budokan",
+      "ANSWER-3":"Bhutan",
+      "ANSWER-4":"Britain",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What popular toy is featured in the film 'The Hudsucker Proxy'?",
+      "ANSWER-1":"Beanie Babies",
+      "ANSWER-2":"Hula Hoop",
+      "ANSWER-3":"Lincoln Logs",
+      "ANSWER-4":"Lite Brite",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What pro wrestler grapples with Sylvester Stallone in the movie 'Rocky III'?",
+      "ANSWER-1":"Dolph Lundgren",
+      "ANSWER-2":"Hulk Hogan",
+      "ANSWER-3":"Andre the Giant",
+      "ANSWER-4":"The Iron Sheik",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What professional sports team plays its home games in the Alamodome?",
+      "ANSWER-1":"New York Jets",
+      "ANSWER-2":"Detroit Tigers",
+      "ANSWER-3":"Boston Bruins",
+      "ANSWER-4":"San Antonio Spurs",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What rank entitles a general in the US Army to wear three stars?",
+      "ANSWER-1":"brigadier general",
+      "ANSWER-2":"corporal general",
+      "ANSWER-3":"lieutenant general",
+      "ANSWER-4":"major general",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What recording artist claims that sportscaster Marv Albert was a major influence on his sound?",
+      "ANSWER-1":"David Lee Roth",
+      "ANSWER-2":"Meat Loaf",
+      "ANSWER-3":"Axl Rose",
+      "ANSWER-4":"Chuck D",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What singer appeared in the 1992 baseball film 'A League of Their Own'?",
+      "ANSWER-1":"Brandy",
+      "ANSWER-2":"Madonna",
+      "ANSWER-3":"Garth Brooks",
+      "ANSWER-4":"Whitney Houston",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What sport is featured in the 1996 movie 'Kingpin'?",
+      "ANSWER-1":"wrestling",
+      "ANSWER-2":"golf",
+      "ANSWER-3":"chess",
+      "ANSWER-4":"bowling",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What sport is known as 'The Sport of Kings'?",
+      "ANSWER-1":"polo",
+      "ANSWER-2":"archery",
+      "ANSWER-3":"yachting",
+      "ANSWER-4":"horse racing",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What sporting event is held annually on Memorial Day weekend?",
+      "ANSWER-1":"Iditarod",
+      "ANSWER-2":"Kentucky Derby",
+      "ANSWER-3":"Indianapolis 500",
+      "ANSWER-4":"Super Bowl",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What substance was used for blood in the famous shower scene from the movie 'Psycho'?",
+      "ANSWER-1":"tomato juice",
+      "ANSWER-2":"red wine",
+      "ANSWER-3":"chocolate syrup",
+      "ANSWER-4":"ketchup",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What tea is known for its distinctive bergamot flavor?",
+      "ANSWER-1":"Earl Grey",
+      "ANSWER-2":"Darjeeling",
+      "ANSWER-3":"English Breakfast",
+      "ANSWER-4":"Prince of Wales",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What team has won the most World Series?",
+      "ANSWER-1":"Chicago Cubs",
+      "ANSWER-2":"Los Angeles Dodgers",
+      "ANSWER-3":"New York Yankees",
+      "ANSWER-4":"San Francisco Giants",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What term describes a tribe that has no set homeland and wanders from place to place?",
+      "ANSWER-1":"Nomadic",
+      "ANSWER-2":"Pedantic",
+      "ANSWER-3":"Schematic",
+      "ANSWER-4":"Cathartic",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What term describes a word created by rearranging the letters of another word?",
+      "ANSWER-1":"onomatopoeia",
+      "ANSWER-2":"malapropism",
+      "ANSWER-3":"anagram",
+      "ANSWER-4":"antonym",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What term describes someone who does not believe in the existence of God?",
+      "ANSWER-1":"hedonist",
+      "ANSWER-2":"deist",
+      "ANSWER-3":"agnostic",
+      "ANSWER-4":"atheist",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What term describes the passing of genetic traits from one generation to the next?",
+      "ANSWER-1":"heredity",
+      "ANSWER-2":"heresy",
+      "ANSWER-3":"homogeneity",
+      "ANSWER-4":"hemoglobin",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What term is used to describe a group of fish?",
+      "ANSWER-1":"knot",
+      "ANSWER-2":"drape",
+      "ANSWER-3":"school",
+      "ANSWER-4":"gaggle",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What term is used to describe a group of geese?",
+      "ANSWER-1":"gaggle",
+      "ANSWER-2":"gang",
+      "ANSWER-3":"gander",
+      "ANSWER-4":"grist",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What topic does Spin magazine primarily cover?",
+      "ANSWER-1":"politics",
+      "ANSWER-2":"washing machines",
+      "ANSWER-3":"books",
+      "ANSWER-4":"music",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What type of meat is on a traditional Reuben sandwich?",
+      "ANSWER-1":"turkey",
+      "ANSWER-2":"bologna",
+      "ANSWER-3":"corned beef",
+      "ANSWER-4":"pepperoni",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What type of substance is 'terra-cotta'?",
+      "ANSWER-1":"metal",
+      "ANSWER-2":"ceramic",
+      "ANSWER-3":"wood",
+      "ANSWER-4":"glass",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What U.S. president is mentioned by name in the opening theme song of TV's 'All in the Family'?",
+      "ANSWER-1":"Calvin Coolidge",
+      "ANSWER-2":"Harry Truman",
+      "ANSWER-3":"Herbert Hoover",
+      "ANSWER-4":"Richard Nixon",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"What was Ludwig Van Beethoven's final symphony?",
+      "ANSWER-1":"Ninth",
+      "ANSWER-2":"Tenth",
+      "ANSWER-3":"Eleventh",
+      "ANSWER-4":"Twelfth",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What was Richard Nixon's middle name?",
+      "ANSWER-1":"Michael",
+      "ANSWER-2":"Milhous",
+      "ANSWER-3":"Mortimer",
+      "ANSWER-4":"Matthew",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What was the birth name of civil rights leader Malcolm X?",
+      "ANSWER-1":"Michael Brown",
+      "ANSWER-2":"Malcolm Little",
+      "ANSWER-3":"Malcolm Lincoln",
+      "ANSWER-4":"Michael Lloyd",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What was the first American college to become coeducational?",
+      "ANSWER-1":"Oberlin College",
+      "ANSWER-2":"Dartmouth College",
+      "ANSWER-3":"Grinnell College",
+      "ANSWER-4":"Antioch College",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What was the name of Huey Lewis' band?",
+      "ANSWER-1":"The News",
+      "ANSWER-2":"The Attractions",
+      "ANSWER-3":"The Silver Bullet Band",
+      "ANSWER-4":"Louie and Dewey",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What was the name of the 1999 art exhibit that sparked a national debate about censorship?",
+      "ANSWER-1":"'Sticks & Stones'",
+      "ANSWER-2":"'Pulsation'",
+      "ANSWER-3":"'Black & White'",
+      "ANSWER-4":"'Sensation'",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What was the name of the first nuclear-powered submarine?",
+      "ANSWER-1":"Nautilus",
+      "ANSWER-2":"Neptune",
+      "ANSWER-3":"Nordenfelt III",
+      "ANSWER-4":"Nicholas",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What was the name of the first ship to sail around the world?",
+      "ANSWER-1":"Triton",
+      "ANSWER-2":"Victoria",
+      "ANSWER-3":"Magellan",
+      "ANSWER-4":"Elizabeth II",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What was the original name of the Apple Macintosh XL computer?",
+      "ANSWER-1":"Lisa 2",
+      "ANSWER-2":"Mac Daddy",
+      "ANSWER-3":"Granny Smith",
+      "ANSWER-4":"Orange XL",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"What was the title of Beethoven's only completed opera?",
+      "ANSWER-1":"'Faust'",
+      "ANSWER-2":"'The Silence'",
+      "ANSWER-3":"'Immortal Beloved'",
+      "ANSWER-4":"'Fidelio'",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"What were the first names of the early American explorers Lewis and Clark?",
+      "ANSWER-1":"Morgan and Mason",
+      "ANSWER-2":"Meriwether and William",
+      "ANSWER-3":"Cabot and Joseph",
+      "ANSWER-4":"Meredith and George",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What's the popular name of the breakfast meal consisting of sausages wrapped in pancakes?",
+      "ANSWER-1":"ducks in a pond",
+      "ANSWER-2":"pigs in a blanket",
+      "ANSWER-3":"cows in a pasture",
+      "ANSWER-4":"dogs in the oven",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What's the third letter of the Greek alphabet?",
+      "ANSWER-1":"delta",
+      "ANSWER-2":"gamma",
+      "ANSWER-3":"phi",
+      "ANSWER-4":"theta",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"What's unique about a skeleton key?",
+      "ANSWER-1":"It opens many locks.",
+      "ANSWER-2":"It's made of bone.",
+      "ANSWER-3":"It's extremely old.",
+      "ANSWER-4":"It hangs in a closet.",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"When daylight-saving time arrives in the spring, how do most Americans turn their clocks?",
+      "ANSWER-1":"one hour forward",
+      "ANSWER-2":"one hour backward",
+      "ANSWER-3":"two hours forward",
+      "ANSWER-4":"two hours backward",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"When driving, which of the following gestures means 'left turn'?",
+      "ANSWER-1":"arm bent upwards",
+      "ANSWER-2":"thumbs up",
+      "ANSWER-3":"closed fist",
+      "ANSWER-4":"arm straight out",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"In the presidential election of 1932, how many U.S. states did FDR not win the electoral votes for?",
+      "ANSWER-1":"six",
+      "ANSWER-2":"seven",
+      "ANSWER-3":"eight",
+      "ANSWER-4":"ten",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"When it comes to measuring horses, how long is a 'hand'?",
+      "ANSWER-1":"four inches",
+      "ANSWER-2":"seven inches",
+      "ANSWER-3":"ten inches",
+      "ANSWER-4":"two feet",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"When it first appeared on the Internet, amazon.com sold only what?",
+      "ANSWER-1":"books",
+      "ANSWER-2":"compact discs",
+      "ANSWER-3":"cars",
+      "ANSWER-4":"clothes",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"When it's noon in New York during daylight-saving time, what time is it in Honolulu?",
+      "ANSWER-1":"6:00 a.m.",
+      "ANSWER-2":"6:30 a.m.",
+      "ANSWER-3":"7:00 a.m.",
+      "ANSWER-4":"8:00 a.m.",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Where are fireworks first known to have been developed?",
+      "ANSWER-1":"Italy",
+      "ANSWER-2":"China",
+      "ANSWER-3":"Great Britain",
+      "ANSWER-4":"Greece",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Where did jazz great Sun Ra claim he was born?",
+      "ANSWER-1":"Atlantis",
+      "ANSWER-2":"Mount Olympus",
+      "ANSWER-3":"Saturn",
+      "ANSWER-4":"in a saxophone",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Where did Lewis and Clark begin their famous expedition in 1804?",
+      "ANSWER-1":"Seattle",
+      "ANSWER-2":"St. Louis",
+      "ANSWER-3":"New Orleans",
+      "ANSWER-4":"Washington, DC",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Where did the Exxon Valdez run aground in March of 1989?",
+      "ANSWER-1":"Monterey Bay",
+      "ANSWER-2":"Prince William Sound",
+      "ANSWER-3":"Cape Cod",
+      "ANSWER-4":"Gulf of Mexico",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Where is Ghirardelli Square located?",
+      "ANSWER-1":"Milan",
+      "ANSWER-2":"Rome",
+      "ANSWER-3":"Washington DC",
+      "ANSWER-4":"San Francisco",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Where is the Louvre museum?",
+      "ANSWER-1":"Paris",
+      "ANSWER-2":"Lyon",
+      "ANSWER-3":"Geneva",
+      "ANSWER-4":"Vichy",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Where was the chicken first domesticated?",
+      "ANSWER-1":"France",
+      "ANSWER-2":"India",
+      "ANSWER-3":"Peru",
+      "ANSWER-4":"Zaire",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Where would you typically find a bailiff?",
+      "ANSWER-1":"grocery store",
+      "ANSWER-2":"courtroom",
+      "ANSWER-3":"football stadium",
+      "ANSWER-4":"doctor's office",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Where is the Frank Lloyd Wright-designed house known as Falling Water?",
+      "ANSWER-1":"Connecticut",
+      "ANSWER-2":"Pennsylvania",
+      "ANSWER-3":"Illinois",
+      "ANSWER-4":"New York",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which actress played a pointy-eared Vulcan in the movie 'Star Trek II: The Wrath of Khan'?",
+      "ANSWER-1":"Whoopi Goldberg",
+      "ANSWER-2":"Jennifer Grey",
+      "ANSWER-3":"Kirstie Alley",
+      "ANSWER-4":"Helen Hunt",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which American colony, known for its religious tolerance, did Roger Williams found in 1636?",
+      "ANSWER-1":"Massachusetts",
+      "ANSWER-2":"Rhode Island",
+      "ANSWER-3":"Virginia",
+      "ANSWER-4":"Vermont",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which brand of cat food claims it's so tasty that 'cats ask for it by name'?",
+      "ANSWER-1":"Fancy Feast",
+      "ANSWER-2":"Cat Chow",
+      "ANSWER-3":"Meow Mix",
+      "ANSWER-4":"9-Lives",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which character on the TV show 'Friends' is a chef?",
+      "ANSWER-1":"Joey",
+      "ANSWER-2":"Monica",
+      "ANSWER-3":"Ross",
+      "ANSWER-4":"Rachel",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which company holds an annual self-named 'Bake-Off'?",
+      "ANSWER-1":"Betty Crocker",
+      "ANSWER-2":"Duncan Hines",
+      "ANSWER-3":"Pillsbury",
+      "ANSWER-4":"Keebler",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which famed modeling agency shares its name with a top U.S. automaker?",
+      "ANSWER-1":"Ford",
+      "ANSWER-2":"Chevrolet",
+      "ANSWER-3":"Chrysler",
+      "ANSWER-4":"Saturn",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which fast food chain used the advertising slogan, 'Where's the beef?'",
+      "ANSWER-1":"Wendy's",
+      "ANSWER-2":"Kentucky Fried Chicken",
+      "ANSWER-3":"Burger King",
+      "ANSWER-4":"McDonald's",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of the boys on the TV show 'My Three Sons' is adopted?",
+      "ANSWER-1":"Mike",
+      "ANSWER-2":"Ernie",
+      "ANSWER-3":"Chip",
+      "ANSWER-4":"Robbie",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of the following articles of clothing has a hood?",
+      "ANSWER-1":"parka",
+      "ANSWER-2":"kilt",
+      "ANSWER-3":"lederhosen",
+      "ANSWER-4":"sarong",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of the following beverages is brewed from the leaves of a plant?",
+      "ANSWER-1":"tea",
+      "ANSWER-2":"coffee",
+      "ANSWER-3":"ginger ale",
+      "ANSWER-4":"wine",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of the following breakfast cereals is shaped like the letter O?",
+      "ANSWER-1":"Life Corn",
+      "ANSWER-2":"Chex",
+      "ANSWER-3":"Cheerios",
+      "ANSWER-4":"Raisin Bran",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of the following candies is traditionally fruit flavored?",
+      "ANSWER-1":"M&M's",
+      "ANSWER-2":"Skittles",
+      "ANSWER-3":"Reese's Pieces",
+      "ANSWER-4":"Junior Mints",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of the following is a natural sugar found in most fruits?",
+      "ANSWER-1":"necrose",
+      "ANSWER-2":"fructose",
+      "ANSWER-3":"bellicose",
+      "ANSWER-4":"pantiose",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of the following is a sports award?",
+      "ANSWER-1":"Oscar",
+      "ANSWER-2":"Emmy",
+      "ANSWER-3":"Nobel",
+      "ANSWER-4":"Espy",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of the following is about the Watergate scandal?",
+      "ANSWER-1":"'All the King's Men'",
+      "ANSWER-2":"'All the Pretty Horses'",
+      "ANSWER-3":"'All the President's Men'",
+      "ANSWER-4":"'All the Right Moves'",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of the following is most commonly kept in a terrarium?",
+      "ANSWER-1":"money",
+      "ANSWER-2":"books",
+      "ANSWER-3":"ice",
+      "ANSWER-4":"plants",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of the following is not a flavor of Ben & Jerry's Ice Cream?",
+      "ANSWER-1":"Wavy Gravy",
+      "ANSWER-2":"Bovinity Divinity",
+      "ANSWER-3":"Cutie Patootie",
+      "ANSWER-4":"Chubby Hubby",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of the following is not a TV cartoon duo?",
+      "ANSWER-1":"Chip and Dale",
+      "ANSWER-2":"Beavis and Butt-head",
+      "ANSWER-3":"Simon and Garfunkel",
+      "ANSWER-4":"Tom and Jerry",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of the following is not in Nevada?",
+      "ANSWER-1":"Liberace Museum",
+      "ANSWER-2":"Pikes Peak",
+      "ANSWER-3":"Lake Mead",
+      "ANSWER-4":"Hoover Dam",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of the following must be obtained by foreigners wishing to permanently reside in the US?",
+      "ANSWER-1":"visa",
+      "ANSWER-2":"bill of landing",
+      "ANSWER-3":"driver's license",
+      "ANSWER-4":"carte blanche",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of the following requires the use of at least two needles?",
+      "ANSWER-1":"macrame",
+      "ANSWER-2":"braiding",
+      "ANSWER-3":"crocheting",
+      "ANSWER-4":"hand knitting",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of the following words does not appear in the Lewis Carroll poem 'Jabberwocky'?",
+      "ANSWER-1":"brillig",
+      "ANSWER-2":"bandersnatch",
+      "ANSWER-3":"wabe",
+      "ANSWER-4":"grelp",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of the Three Stooges was not related to the others?",
+      "ANSWER-1":"Moe",
+      "ANSWER-2":"Larry",
+      "ANSWER-3":"Curly",
+      "ANSWER-4":"Shemp",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these actors did one-handed push-ups on stage at the 1992 Academy Awards?",
+      "ANSWER-1":"Sylvester Stallone",
+      "ANSWER-2":"Jack Nicholson",
+      "ANSWER-3":"Jack Palance",
+      "ANSWER-4":"Marisa Tomei",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these animals lays eggs?",
+      "ANSWER-1":"cow",
+      "ANSWER-2":"gerbil",
+      "ANSWER-3":"frog",
+      "ANSWER-4":"elephant",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these animals shares its name with a luxury car?",
+      "ANSWER-1":"yak",
+      "ANSWER-2":"gazelle",
+      "ANSWER-3":"sloth",
+      "ANSWER-4":"jaguar",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these are not legumes?",
+      "ANSWER-1":"beans",
+      "ANSWER-2":"peas",
+      "ANSWER-3":"radishes",
+      "ANSWER-4":"peanuts",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these Australian birds is most closely related to the ostrich?",
+      "ANSWER-1":"puffin",
+      "ANSWER-2":"kookaburra",
+      "ANSWER-3":"cockatoo",
+      "ANSWER-4":"emu",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these candy bars was named for a baseball player?",
+      "ANSWER-1":"Baby Ruth",
+      "ANSWER-2":"Clark Bar",
+      "ANSWER-3":"Reggie Bar",
+      "ANSWER-4":"Butterfinger",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these college football programs has produced the most Heisman Trophy winners?",
+      "ANSWER-1":"Notre Dame",
+      "ANSWER-2":"USC",
+      "ANSWER-3":"Oklahoma",
+      "ANSWER-4":"Michigan",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these colors is a shade of blue?",
+      "ANSWER-1":"ochre",
+      "ANSWER-2":"periwinkle",
+      "ANSWER-3":"mauve",
+      "ANSWER-4":"ecru",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these countries does not participate in NAFTA?",
+      "ANSWER-1":"United States",
+      "ANSWER-2":"Canada",
+      "ANSWER-3":"Mexico",
+      "ANSWER-4":"Guatemala",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these companies is not an online stock brokerage?",
+      "ANSWER-1":"E*Trade",
+      "ANSWER-2":"EDigital",
+      "ANSWER-3":"Datek Online",
+      "ANSWER-4":"DLJ Direct",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these countries is not in Europe?",
+      "ANSWER-1":"Italy",
+      "ANSWER-2":"Spain",
+      "ANSWER-3":"Greece",
+      "ANSWER-4":"Israel",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these countries was not a member of the Axis nations during World War II?",
+      "ANSWER-1":"Germany",
+      "ANSWER-2":"Italy",
+      "ANSWER-3":"Spain",
+      "ANSWER-4":"Japan",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these Democrats lost to Ronald Reagan in the 1984 presidential elections?",
+      "ANSWER-1":"Michael Dukakis",
+      "ANSWER-2":"Walter Mondale",
+      "ANSWER-3":"Gary Hart",
+      "ANSWER-4":"Jimmy Carter",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these dishes is made from pig intestines?",
+      "ANSWER-1":"haggis",
+      "ANSWER-2":"chitlins",
+      "ANSWER-3":"grits",
+      "ANSWER-4":"chop suey",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these evangelists is a cousin of rocker Jerry Lee Lewis?",
+      "ANSWER-1":"Billy Graham",
+      "ANSWER-2":"Oral Roberts",
+      "ANSWER-3":"Jerry Falwell",
+      "ANSWER-4":"Jimmy Swaggart",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these famous baseball figures was once acquitted at court-martial for insubordination?",
+      "ANSWER-1":"Abner Doubleday",
+      "ANSWER-2":"Ty Cobb",
+      "ANSWER-3":"Jackie Robinson",
+      "ANSWER-4":"Billy Martin",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these fashion designers was born in the United States?",
+      "ANSWER-1":"Laura Ashley",
+      "ANSWER-2":"Helmut Lang",
+      "ANSWER-3":"Donna Karan",
+      "ANSWER-4":"Christian Dior",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these foods could contain small amounts of naturally occurring opium?",
+      "ANSWER-1":"chocolate truffles",
+      "ANSWER-2":"poppy seed bagels",
+      "ANSWER-3":"carbonated soda",
+      "ANSWER-4":"sesame chicken",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these foods could you catch at sea?",
+      "ANSWER-1":"shallot",
+      "ANSWER-2":"stollen",
+      "ANSWER-3":"scallop",
+      "ANSWER-4":"scone",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these foods is poisonous to dogs?",
+      "ANSWER-1":"peanut butter",
+      "ANSWER-2":"bananas",
+      "ANSWER-3":"chocolate",
+      "ANSWER-4":"olives",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these games is not played with cards?",
+      "ANSWER-1":"baccarat",
+      "ANSWER-2":"rummy",
+      "ANSWER-3":"craps",
+      "ANSWER-4":"solitaire",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these foods is not traditionally considered kosher?",
+      "ANSWER-1":"citrus fruits",
+      "ANSWER-2":"barley",
+      "ANSWER-3":"chicken",
+      "ANSWER-4":"shellfish",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these Hemingway characters is a newspaperman?",
+      "ANSWER-1":"Jake Barnes",
+      "ANSWER-2":"Rogelio Gomez",
+      "ANSWER-3":"Frederic Henry",
+      "ANSWER-4":"John MacWalsey",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these holidays is not attached to a specific date?",
+      "ANSWER-1":"Independence Day",
+      "ANSWER-2":"New Year's Day",
+      "ANSWER-3":"Thanksgiving",
+      "ANSWER-4":"Christmas",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these horror films spawned the most sequels?",
+      "ANSWER-1":"'Scream'",
+      "ANSWER-2":"'Jaws'",
+      "ANSWER-3":"'Halloween'",
+      "ANSWER-4":"'Friday the 13th'",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these household pets should be vaccinated for parvovirus?",
+      "ANSWER-1":"hamster",
+      "ANSWER-2":"cat",
+      "ANSWER-3":"dog",
+      "ANSWER-4":"bird",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is a commonly-known investment account?",
+      "ANSWER-1":"CNN",
+      "ANSWER-2":"EMC",
+      "ANSWER-3":"IRA",
+      "ANSWER-4":"IRS",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is a fish?",
+      "ANSWER-1":"sea horse",
+      "ANSWER-2":"sea cow",
+      "ANSWER-3":"sea snake",
+      "ANSWER-4":"sea lion",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is a government agency established to protect investors?",
+      "ANSWER-1":"AAA",
+      "ANSWER-2":"NBA",
+      "ANSWER-3":"SEC",
+      "ANSWER-4":"MADD",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is a member of the cucumber family?",
+      "ANSWER-1":"green pepper",
+      "ANSWER-2":"watermelon",
+      "ANSWER-3":"potato",
+      "ANSWER-4":"green bean",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is a slang term for 'police'?",
+      "ANSWER-1":"fuzz",
+      "ANSWER-2":"shrinks",
+      "ANSWER-3":"bean counters",
+      "ANSWER-4":"aardvarks",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is a type of artwork consisting of pieces of wood inlaid in geometric patterns?",
+      "ANSWER-1":"marquetry",
+      "ANSWER-2":"parquetry",
+      "ANSWER-3":"harquetry",
+      "ANSWER-4":"sharquetry",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is an Italian Design firm?",
+      "ANSWER-1":"Escada",
+      "ANSWER-2":"Fendi",
+      "ANSWER-3":"Ghost",
+      "ANSWER-4":"Mainbocher",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is another name for a golf course?",
+      "ANSWER-1":"Pitch",
+      "ANSWER-2":"Links",
+      "ANSWER-3":"Steps",
+      "ANSWER-4":"Suite",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is commonly used to treat allergies?",
+      "ANSWER-1":"antimatter",
+      "ANSWER-2":"anticoagulants",
+      "ANSWER-3":"antiseptics",
+      "ANSWER-4":"antihistamines",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these is made from cacao seeds?",
+      "ANSWER-1":"marzipan",
+      "ANSWER-2":"soy sauce",
+      "ANSWER-3":"chocolate",
+      "ANSWER-4":"anchovies",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not a breed of cat?",
+      "ANSWER-1":"Persian",
+      "ANSWER-2":"Turkish Angora",
+      "ANSWER-3":"Bichon Frise",
+      "ANSWER-4":"Maine Coon",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not a city in the state of New York?",
+      "ANSWER-1":"Perskippity",
+      "ANSWER-2":"Kerhonkson",
+      "ANSWER-3":"Schenectady",
+      "ANSWER-4":"Lackawanna",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not a fabric?",
+      "ANSWER-1":"Velveteen",
+      "ANSWER-2":"Celotex",
+      "ANSWER-3":"Seersucker",
+      "ANSWER-4":"Tencel",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is not a Hindu deity?",
+      "ANSWER-1":"Shiva",
+      "ANSWER-2":"Vishnu",
+      "ANSWER-3":"Sanskrit",
+      "ANSWER-4":"Brahma",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not a 'lock' function on a standard desktop computer keyboard?",
+      "ANSWER-1":"print lock",
+      "ANSWER-2":"number lock",
+      "ANSWER-3":"scroll lock",
+      "ANSWER-4":"caps lock",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not a position on an American football team?",
+      "ANSWER-1":"quarterback",
+      "ANSWER-2":"tight end",
+      "ANSWER-3":"striker",
+      "ANSWER-4":"free safety",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not a spice?",
+      "ANSWER-1":"dill",
+      "ANSWER-2":"aniseed",
+      "ANSWER-3":"cucumber",
+      "ANSWER-4":"cayenne",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not a style of shoe?",
+      "ANSWER-1":"gingham",
+      "ANSWER-2":"brogan",
+      "ANSWER-3":"espadrille",
+      "ANSWER-4":"docksider",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not a traditional Greek dish?",
+      "ANSWER-1":"sukiyaki",
+      "ANSWER-2":"souvlaki",
+      "ANSWER-3":"moussaka",
+      "ANSWER-4":"finikia",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not a type of chili pepper?",
+      "ANSWER-1":"habanero",
+      "ANSWER-2":"cheyenne",
+      "ANSWER-3":"jalapeno",
+      "ANSWER-4":"guajillo",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is not a type of primate?",
+      "ANSWER-1":"baboon",
+      "ANSWER-2":"marmot",
+      "ANSWER-3":"orangutan",
+      "ANSWER-4":"chimpanzee",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these is not a type of rock?",
+      "ANSWER-1":"metamorphic",
+      "ANSWER-2":"sedimentary",
+      "ANSWER-3":"igneous",
+      "ANSWER-4":"deciduous",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these is not an ingredient in Yorkshire pudding?",
+      "ANSWER-1":"eggs",
+      "ANSWER-2":"milk",
+      "ANSWER-3":"chocolate",
+      "ANSWER-4":"meat drippings",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not found in a Snickers candy bar?",
+      "ANSWER-1":"almonds",
+      "ANSWER-2":"chocolate",
+      "ANSWER-3":"nougat",
+      "ANSWER-4":"caramel",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not one of Aesop's fables?",
+      "ANSWER-1":"'The Dog and the Squirrel'",
+      "ANSWER-2":"'The Hare and the Tortoise'",
+      "ANSWER-3":"'The Eagle and the Beetle'",
+      "ANSWER-4":"'The Ox and the Frogs'",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not one of superhero Captain Marvel's abilities?",
+      "ANSWER-1":"the power of Apollo",
+      "ANSWER-2":"the strength of Hercules",
+      "ANSWER-3":"the courage of Achilles",
+      "ANSWER-4":"the wisdom of Solomon",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not one of the four basic forces in nature?",
+      "ANSWER-1":"electromagnetic",
+      "ANSWER-2":"gravitational",
+      "ANSWER-3":"nuclear",
+      "ANSWER-4":"centrifugal",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these is not one of the official languages of the United Nations?",
+      "ANSWER-1":"Japanese",
+      "ANSWER-2":"English",
+      "ANSWER-3":"Russian",
+      "ANSWER-4":"Spanish",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is not one of the three branches of the US government?",
+      "ANSWER-1":"Judicial",
+      "ANSWER-2":"Executive",
+      "ANSWER-3":"Parliamentary",
+      "ANSWER-4":"Legislative",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these is not the name of one of rock musician Frank Zappa's children?",
+      "ANSWER-1":"Dweezil",
+      "ANSWER-2":"Ahmet",
+      "ANSWER-3":"Moon Unit",
+      "ANSWER-4":"Lumpy Gravy",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these is referred to as a 'pigskin'?",
+      "ANSWER-1":"Football",
+      "ANSWER-2":"Basketball",
+      "ANSWER-3":"hockey puck",
+      "ANSWER-4":"catcher's Mitt",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these is typically not used as a spice?",
+      "ANSWER-1":"dill",
+      "ANSWER-2":"thyme",
+      "ANSWER-3":"hemlock",
+      "ANSWER-4":"marjoram",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these items is useful for removing ink stains?",
+      "ANSWER-1":"baking soda",
+      "ANSWER-2":"nail polish",
+      "ANSWER-3":"hair spray",
+      "ANSWER-4":"butter",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these measurements is equal to one square foot?",
+      "ANSWER-1":"50 square inches",
+      "ANSWER-2":"77 square inches",
+      "ANSWER-3":"100 square inches",
+      "ANSWER-4":"144 square inches",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these magazines does not focus on natural science?",
+      "ANSWER-1":"Tiger Beat",
+      "ANSWER-2":"Outside",
+      "ANSWER-3":"National Geographic",
+      "ANSWER-4":"Smithsonian",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these men has never been a head coach in the NFL?",
+      "ANSWER-1":"Dick Vermeil",
+      "ANSWER-2":"Bill Parcells",
+      "ANSWER-3":"Chuck Noll",
+      "ANSWER-4":"Pat Riley",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these months has 31 days?",
+      "ANSWER-1":"March",
+      "ANSWER-2":"April",
+      "ANSWER-3":"June",
+      "ANSWER-4":"September",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these movies does not star Jim Carrey?",
+      "ANSWER-1":"'Patch Adams'",
+      "ANSWER-2":"'The Truman Show'",
+      "ANSWER-3":"'Dumb and Dumber'",
+      "ANSWER-4":"'The Mask'",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these names has never belonged to a Pope?",
+      "ANSWER-1":"Leo",
+      "ANSWER-2":"Lando",
+      "ANSWER-3":"Linus",
+      "ANSWER-4":"Lawrence",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these organizations is not part of the U.S. government?",
+      "ANSWER-1":"NAACP",
+      "ANSWER-2":"NASA",
+      "ANSWER-3":"CIA",
+      "ANSWER-4":"FBI",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these organs comes in a pair?",
+      "ANSWER-1":"liver",
+      "ANSWER-2":"kidney",
+      "ANSWER-3":"stomach",
+      "ANSWER-4":"gallbladder",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these painting tools has bristles on it?",
+      "ANSWER-1":"easel",
+      "ANSWER-2":"knife",
+      "ANSWER-3":"brush",
+      "ANSWER-4":"palette",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these pastas is spiral shaped?",
+      "ANSWER-1":"fettuccine",
+      "ANSWER-2":"rigatoni",
+      "ANSWER-3":"tortellini",
+      "ANSWER-4":"rotini",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these people was buried in the Valley of the Kings?",
+      "ANSWER-1":"Louis XIV",
+      "ANSWER-2":"Elvis Presley",
+      "ANSWER-3":"Julius Caesar",
+      "ANSWER-4":"King Tut",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these people was not alive in the 20th century?",
+      "ANSWER-1":"Mark Twain",
+      "ANSWER-2":"Thomas Edison",
+      "ANSWER-3":"Sigmund Freud",
+      "ANSWER-4":"Ulysses S. Grant",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these performers made her film debut in Spike Lee's 'Do the Right Thing'?",
+      "ANSWER-1":"Jennifer Lopez",
+      "ANSWER-2":"Rosie Perez",
+      "ANSWER-3":"Paula Abdul",
+      "ANSWER-4":"Tisha Campbell",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these places is known for art auctions?",
+      "ANSWER-1":"Shelby's",
+      "ANSWER-2":"Nickleby's",
+      "ANSWER-3":"Gatsby's",
+      "ANSWER-4":"Sotheby's",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these plants is the national emblem of Scotland?",
+      "ANSWER-1":"ivy",
+      "ANSWER-2":"thistle",
+      "ANSWER-3":"rose",
+      "ANSWER-4":"linden",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these popular games relies on bluffing?",
+      "ANSWER-1":"Outburst",
+      "ANSWER-2":"Balderdash",
+      "ANSWER-3":"Pictionary",
+      "ANSWER-4":"Scattergories",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these refers to an alcoholic drink laced with a knockout drug?",
+      "ANSWER-1":"Zombie",
+      "ANSWER-2":"Kamikaze",
+      "ANSWER-3":"Mickey Finn",
+      "ANSWER-4":"Molotov cocktail",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these rivers flows through France?",
+      "ANSWER-1":"Volga",
+      "ANSWER-2":"Seine",
+      "ANSWER-3":"Mekong",
+      "ANSWER-4":"Allegheny",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these rock guitarists designed a colorful line of men's neckties?",
+      "ANSWER-1":"Eric Clapton",
+      "ANSWER-2":"Jerry Garcia",
+      "ANSWER-3":"Jeff Beck",
+      "ANSWER-4":"Keith Richards",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these rocks will float in water?",
+      "ANSWER-1":"granite",
+      "ANSWER-2":"limestone",
+      "ANSWER-3":"shale",
+      "ANSWER-4":"pumice",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these sentences is written in the subjunctive?",
+      "ANSWER-1":"I am not your man",
+      "ANSWER-2":"I wish I were your man",
+      "ANSWER-3":"Wherefore art your man?",
+      "ANSWER-4":"Your man is where?",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these snakes is poisonous?",
+      "ANSWER-1":"anaconda",
+      "ANSWER-2":"boa constrictor",
+      "ANSWER-3":"copperhead",
+      "ANSWER-4":"python",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these songs was a Top 10 hit for the rock band The Police?",
+      "ANSWER-1":"'Radio Ga-Ga'",
+      "ANSWER-2":"'Ob-la-di, Ob-la-da'",
+      "ANSWER-3":"'De Do Do Do, De Da Da Da'",
+      "ANSWER-4":"'In-a-Gadda-Da-Vida'",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these sounds is commonly associated with owls?",
+      "ANSWER-1":"chirp",
+      "ANSWER-2":"bark",
+      "ANSWER-3":"growl",
+      "ANSWER-4":"hoot",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these states is not the birthplace of a US president?",
+      "ANSWER-1":"New Jersey",
+      "ANSWER-2":"Nebraska",
+      "ANSWER-3":"Kansas",
+      "ANSWER-4":"California",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these stores is not owned by Gap Inc?",
+      "ANSWER-1":"Gap",
+      "ANSWER-2":"Banana Republic",
+      "ANSWER-3":"Old Navy",
+      "ANSWER-4":"J Crew",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these television programs did not feature characters introduced on 'Happy Days'?",
+      "ANSWER-1":"'Mork & Mindy'",
+      "ANSWER-2":"'Perfect Strangers'",
+      "ANSWER-3":"'Joanie Loves Chachi'",
+      "ANSWER-4":"'Laverne & Shirley'",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these television series was not set in the United States?",
+      "ANSWER-1":"'Picket Fences'",
+      "ANSWER-2":"'M*A*S*H'",
+      "ANSWER-3":"'Northern Exposure'",
+      "ANSWER-4":"'The Paper Chase'",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these toys answers questions?",
+      "ANSWER-1":"Magic 8 Ball",
+      "ANSWER-2":"Barbie",
+      "ANSWER-3":"Frisbee",
+      "ANSWER-4":"Slinky",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these vitamins was the first to be named?",
+      "ANSWER-1":"Vitamin A",
+      "ANSWER-2":"Vitamin-12",
+      "ANSWER-3":"Vitamin E",
+      "ANSWER-4":"Vitameatavegimen",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which of these words is a synonym for 'perambulate'?",
+      "ANSWER-1":"kiss",
+      "ANSWER-2":"shout",
+      "ANSWER-3":"stroll",
+      "ANSWER-4":"heal",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which of these words is an adverb?",
+      "ANSWER-1":"hurried",
+      "ANSWER-2":"fast",
+      "ANSWER-3":"speedy",
+      "ANSWER-4":"quickly",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Which of these words means 'yes' in French?",
+      "ANSWER-1":"qui",
+      "ANSWER-2":"oui",
+      "ANSWER-3":"ja",
+      "ANSWER-4":"okey-dokey",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these words is spelled correctly?",
+      "ANSWER-1":"decieve",
+      "ANSWER-2":"foriegn",
+      "ANSWER-3":"hygiene",
+      "ANSWER-4":"wierd",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which one of these world leaders was assassinated?",
+      "ANSWER-1":"Indira Gandhi",
+      "ANSWER-2":"Ferdinand Marcos",
+      "ANSWER-3":"Golda Meir",
+      "ANSWER-4":"Neville Chamberlain",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which one of these World War II leaders was not at the Yalta Conference?",
+      "ANSWER-1":"Stalin",
+      "ANSWER-2":"Mussolini",
+      "ANSWER-3":"Churchill",
+      "ANSWER-4":"Roosevelt",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Which of these would you most commonly find in a sconce?",
+      "ANSWER-1":"candle",
+      "ANSWER-2":"food",
+      "ANSWER-3":"birds",
+      "ANSWER-4":"books",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Which Pope immediately preceded John Paul II?",
+      "ANSWER-1":"John XXIII ",
+      "ANSWER-2":"Paul VI",
+      "ANSWER-3":"John Paul I",
+      "ANSWER-4":"Hank II",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Which 'Rocky' film features Mr. T?",
+      "ANSWER-1":"'Rocky II'",
+      "ANSWER-2":"'Rocky III'",
+      "ANSWER-3":"'Rocky IV'",
+      "ANSWER-4":"'Rocky '",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who co-founded Microsoft with Bill Gates?",
+      "ANSWER-1":"Steve Jobs",
+      "ANSWER-2":"Steve Wozniak",
+      "ANSWER-3":"Paul Williams",
+      "ANSWER-4":"Paul Allen",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who composed the 'Moonlight Sonata'?",
+      "ANSWER-1":"Mozart",
+      "ANSWER-2":"Handel",
+      "ANSWER-3":"Bach",
+      "ANSWER-4":"Beethoven",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who is an archenemy of the cartoon superhero Underdog?",
+      "ANSWER-1":"OverCat",
+      "ANSWER-2":"Muttley",
+      "ANSWER-3":"Mr. Whoopie",
+      "ANSWER-4":"Dick Dastardly",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who is considered the owner of a 'publicly held' company?",
+      "ANSWER-1":"the CEO",
+      "ANSWER-2":"the stockholders",
+      "ANSWER-3":"the president",
+      "ANSWER-4":"the government",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who is the career hit leader among players never elected to Baseball's Hall of Fame?",
+      "ANSWER-1":"Steve Garvey",
+      "ANSWER-2":"Jim Rice",
+      "ANSWER-3":"Pete Rose",
+      "ANSWER-4":"Ken Griffey Jr",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who is the creator of the comic strip 'The Far Side'?",
+      "ANSWER-1":"Jim Davis",
+      "ANSWER-2":"Gary Larson",
+      "ANSWER-3":"Garry Trudeau",
+      "ANSWER-4":"Charles Schulz",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who is the mythological Roman goddess of flowers?",
+      "ANSWER-1":"Diana",
+      "ANSWER-2":"Echo",
+      "ANSWER-3":"Flora",
+      "ANSWER-4":"Niobe",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who is the patron saint of animals?",
+      "ANSWER-1":"St. Isidore of Seville",
+      "ANSWER-2":"St. Anthony of Padua",
+      "ANSWER-3":"St. Francis of Assisi",
+      "ANSWER-4":"St. Joan of Arc",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who is the shortest man to ever win an NBA slam dunk competition?",
+      "ANSWER-1":"Anthony 'Spud' Webb",
+      "ANSWER-2":"Michael 'Air' Jordan",
+      "ANSWER-3":"Tyrone 'Muggsy' Bogues",
+      "ANSWER-4":"Julius 'Dr. J' Erving",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who is the star of the movie 'Casablanca'?",
+      "ANSWER-1":"Errol Flynn",
+      "ANSWER-2":"Clark Gable",
+      "ANSWER-3":"Cary Grant",
+      "ANSWER-4":"Humphrey Bogart",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who is the star of the TV show 'Everybody Loves Raymond'?",
+      "ANSWER-1":"Ray Liotta",
+      "ANSWER-2":"Ray Romano",
+      "ANSWER-3":"Ray Parker Jr.",
+      "ANSWER-4":"Sugar Ray Leonard",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who is the twin sister of 'Dear Abby' columnist Abigail VanBuren?",
+      "ANSWER-1":"Martha Stewart",
+      "ANSWER-2":"Dr Ruth Westheimer",
+      "ANSWER-3":"Ann Landers",
+      "ANSWER-4":"Miss Manners",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who kills Tony at the end of the film 'West Side Story'?",
+      "ANSWER-1":"Riff",
+      "ANSWER-2":"Chino",
+      "ANSWER-3":"Bernardo",
+      "ANSWER-4":"He kills himself.",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who led the 1831 slave insurrection in Southampton, Virginia?",
+      "ANSWER-1":"John Brown",
+      "ANSWER-2":"Dred Scott",
+      "ANSWER-3":"Nat Turner",
+      "ANSWER-4":"Harriet Tubman",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who or what was Big Bertha?",
+      "ANSWER-1":"a comet",
+      "ANSWER-2":"a World War I gun",
+      "ANSWER-3":"a pro wrestling champion",
+      "ANSWER-4":"a giant Muppet",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who originally proposed the idea of daylight-saving time?",
+      "ANSWER-1":"Benjamin Franklin",
+      "ANSWER-2":"Henry David Thoreau",
+      "ANSWER-3":"Galileo",
+      "ANSWER-4":"Albert Einstein",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who sang lead vocals for the band Big Brother and the Holding Company?",
+      "ANSWER-1":"Grace Slick",
+      "ANSWER-2":"Janis Joplin",
+      "ANSWER-3":"Mama Cass",
+      "ANSWER-4":"Karen Carpenter",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who was Charlie McCarthy?",
+      "ANSWER-1":"a U.S. senator",
+      "ANSWER-2":"a Chicago gangster",
+      "ANSWER-3":"a famous baseball pitcher",
+      "ANSWER-4":"a wooden dummy",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who was not one of the Cartwright sons on the TV series 'Bonanza'?",
+      "ANSWER-1":"Adam",
+      "ANSWER-2":"Little Joe",
+      "ANSWER-3":"Hoss",
+      "ANSWER-4":"Ben",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who was on the $500 bill?",
+      "ANSWER-1":"Calvin Coolidge",
+      "ANSWER-2":"Andrew Jackson",
+      "ANSWER-3":"Aaron Burr",
+      "ANSWER-4":"William McKinley",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who was president of the United States when Bill Clinton was born?",
+      "ANSWER-1":"Herbert Hoover",
+      "ANSWER-2":"Harry S. Truman",
+      "ANSWER-3":"Franklin Roosevelt",
+      "ANSWER-4":"Dwight Eisenhower",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who was the English king at the time of the American Revolution?",
+      "ANSWER-1":"Charles I",
+      "ANSWER-2":"James I",
+      "ANSWER-3":"Edward III",
+      "ANSWER-4":"George III",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who was the first American in space?",
+      "ANSWER-1":"John Glenn",
+      "ANSWER-2":"Buzz Aldrin",
+      "ANSWER-3":"Alan Shepard",
+      "ANSWER-4":"Neil Armstrong",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who was the first First Lady to run for political office?",
+      "ANSWER-1":"Hillary Clinton",
+      "ANSWER-2":"Rosalynn Carter",
+      "ANSWER-3":"Bess Truman",
+      "ANSWER-4":"Eleanor Roosevelt",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who was the first US president to resign from that office?",
+      "ANSWER-1":"Martin Van Buren",
+      "ANSWER-2":"Andrew Jackson",
+      "ANSWER-3":"Andrew Johnson",
+      "ANSWER-4":"Richard Nixon",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who was the longest reigning monarch in French history?",
+      "ANSWER-1":"Louis XIII ",
+      "ANSWER-2":"Louis XIV",
+      "ANSWER-3":"Louis XV",
+      "ANSWER-4":"Louis XVI",
+      "answer":"ANSWER-2"
+   },
+   {
+      "question":"Who was the mother of the Greek god Zeus?",
+      "ANSWER-1":"Gaia",
+      "ANSWER-2":"Phoebe",
+      "ANSWER-3":"Rhea",
+      "ANSWER-4":"Hera",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who was the WNBA's Most Valuable Player of 1999?",
+      "ANSWER-1":"Rebecca Lobo",
+      "ANSWER-2":"Sheryl Swoopes",
+      "ANSWER-3":"Lisa Leslie",
+      "ANSWER-4":"Yolanda Griffith",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Who were the Chicago Seven?",
+      "ANSWER-1":"war protesters",
+      "ANSWER-2":"bluegrass musicians",
+      "ANSWER-3":"bank robbers",
+      "ANSWER-4":"mobsters",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who were the Know-Nothings?",
+      "ANSWER-1":"a '60's comedy troupe",
+      "ANSWER-2":"computer designers",
+      "ANSWER-3":"a political party",
+      "ANSWER-4":"a spy ring",
+      "answer":"ANSWER-3"
+   },
+   {
+      "question":"Who wrote 'A Tale of Two Cities'?",
+      "ANSWER-1":"Charles Dickens",
+      "ANSWER-2":"Nathaniel Hawthorne",
+      "ANSWER-3":"Washington Irving",
+      "ANSWER-4":"Mark Twain",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who wrote musicals with Oscar Hammerstein II?",
+      "ANSWER-1":"Richard Rodgers",
+      "ANSWER-2":"Rogers Hornsby",
+      "ANSWER-3":"Gilbert O' Sullivan",
+      "ANSWER-4":"George Rogers Clark",
+      "answer":"ANSWER-1"
+   },
+   {
+      "question":"Who wrote the lyrics of the Frank Sinatra anthem 'My Way'?",
+      "ANSWER-1":"Frank Sinatra",
+      "ANSWER-2":"Kris Krist offerson",
+      "ANSWER-3":"Carole King",
+      "ANSWER-4":"Paul Anka",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+      "ANSWER-1":"Jimmy Connors",
+      "ANSWER-2":"Pete Sampras",
+      "ANSWER-3":"John McEnroe",
+      "ANSWER-4":"Bobby Riggs",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"Whose profile can you see on the front of dimes that are currently in circulation?",
+      "ANSWER-1":"George Washington",
+      "ANSWER-2":"Thomas Jefferson",
+      "ANSWER-3":"Benjamin Franklin",
+      "ANSWER-4":"Franklin Roosevelt",
+      "answer":"ANSWER-4"
+   },
+   {
+      "question":"With what would you use a wah-wah pedal?",
+      "ANSWER-1":"bicycle",
+      "ANSWER-2":"stock car",
+      "ANSWER-3":"electric guitar",
+      "ANSWER-4":"baby",
+      "answer":"ANSWER-3"
+   }
+]
